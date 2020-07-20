@@ -1,0 +1,11 @@
+C:\Users\tex_sof_adm\source\repos\examPrep\ex1savings\bin\Debug\netcoreapp3.1\ex1savings.exe
+C:\Users\tex_sof_adm\source\repos\examPrep\ex1savings\bin\Debug\netcoreapp3.1\ex1savings.deps.json
+C:\Users\tex_sof_adm\source\repos\examPrep\ex1savings\bin\Debug\netcoreapp3.1\ex1savings.runtimeconfig.json
+C:\Users\tex_sof_adm\source\repos\examPrep\ex1savings\bin\Debug\netcoreapp3.1\ex1savings.runtimeconfig.dev.json
+C:\Users\tex_sof_adm\source\repos\examPrep\ex1savings\bin\Debug\netcoreapp3.1\ex1savings.dll
+C:\Users\tex_sof_adm\source\repos\examPrep\ex1savings\bin\Debug\netcoreapp3.1\ex1savings.pdb
+C:\Users\tex_sof_adm\source\repos\examPrep\ex1savings\obj\Debug\netcoreapp3.1\ex1savings.csprojAssemblyReference.cache
+C:\Users\tex_sof_adm\source\repos\examPrep\ex1savings\obj\Debug\netcoreapp3.1\ex1savings.AssemblyInfoInputs.cache
+C:\Users\tex_sof_adm\source\repos\examPrep\ex1savings\obj\Debug\netcoreapp3.1\ex1savings.AssemblyInfo.cs
+C:\Users\tex_sof_adm\source\repos\examPrep\ex1savings\obj\Debug\netcoreapp3.1\ex1savings.dll
+C:\Users\tex_sof_adm\source\repos\examPrep\ex1savings\obj\Debug\netcoreapp3.1\ex1savings.pdb

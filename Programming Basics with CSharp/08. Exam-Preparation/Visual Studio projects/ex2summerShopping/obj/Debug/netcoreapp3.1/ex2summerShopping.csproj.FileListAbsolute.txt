@@ -1,0 +1,11 @@
+C:\Users\tex_sof_adm\source\repos\examPrep\ex2summerShopping\bin\Debug\netcoreapp3.1\ex2summerShopping.exe
+C:\Users\tex_sof_adm\source\repos\examPrep\ex2summerShopping\bin\Debug\netcoreapp3.1\ex2summerShopping.deps.json
+C:\Users\tex_sof_adm\source\repos\examPrep\ex2summerShopping\bin\Debug\netcoreapp3.1\ex2summerShopping.runtimeconfig.json
+C:\Users\tex_sof_adm\source\repos\examPrep\ex2summerShopping\bin\Debug\netcoreapp3.1\ex2summerShopping.runtimeconfig.dev.json
+C:\Users\tex_sof_adm\source\repos\examPrep\ex2summerShopping\bin\Debug\netcoreapp3.1\ex2summerShopping.dll
+C:\Users\tex_sof_adm\source\repos\examPrep\ex2summerShopping\bin\Debug\netcoreapp3.1\ex2summerShopping.pdb
+C:\Users\tex_sof_adm\source\repos\examPrep\ex2summerShopping\obj\Debug\netcoreapp3.1\ex2summerShopping.csprojAssemblyReference.cache
+C:\Users\tex_sof_adm\source\repos\examPrep\ex2summerShopping\obj\Debug\netcoreapp3.1\ex2summerShopping.AssemblyInfoInputs.cache
+C:\Users\tex_sof_adm\source\repos\examPrep\ex2summerShopping\obj\Debug\netcoreapp3.1\ex2summerShopping.AssemblyInfo.cs
+C:\Users\tex_sof_adm\source\repos\examPrep\ex2summerShopping\obj\Debug\netcoreapp3.1\ex2summerShopping.dll
+C:\Users\tex_sof_adm\source\repos\examPrep\ex2summerShopping\obj\Debug\netcoreapp3.1\ex2summerShopping.pdb

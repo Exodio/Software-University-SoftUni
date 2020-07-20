@@ -1,0 +1,11 @@
+C:\Users\tex_sof_adm\source\repos\examPrep\ex3cruiseShip\bin\Debug\netcoreapp3.1\ex3cruiseShip.exe
+C:\Users\tex_sof_adm\source\repos\examPrep\ex3cruiseShip\bin\Debug\netcoreapp3.1\ex3cruiseShip.deps.json
+C:\Users\tex_sof_adm\source\repos\examPrep\ex3cruiseShip\bin\Debug\netcoreapp3.1\ex3cruiseShip.runtimeconfig.json
+C:\Users\tex_sof_adm\source\repos\examPrep\ex3cruiseShip\bin\Debug\netcoreapp3.1\ex3cruiseShip.runtimeconfig.dev.json
+C:\Users\tex_sof_adm\source\repos\examPrep\ex3cruiseShip\bin\Debug\netcoreapp3.1\ex3cruiseShip.dll
+C:\Users\tex_sof_adm\source\repos\examPrep\ex3cruiseShip\bin\Debug\netcoreapp3.1\ex3cruiseShip.pdb
+C:\Users\tex_sof_adm\source\repos\examPrep\ex3cruiseShip\obj\Debug\netcoreapp3.1\ex3cruiseShip.csprojAssemblyReference.cache
+C:\Users\tex_sof_adm\source\repos\examPrep\ex3cruiseShip\obj\Debug\netcoreapp3.1\ex3cruiseShip.AssemblyInfoInputs.cache
+C:\Users\tex_sof_adm\source\repos\examPrep\ex3cruiseShip\obj\Debug\netcoreapp3.1\ex3cruiseShip.AssemblyInfo.cs
+C:\Users\tex_sof_adm\source\repos\examPrep\ex3cruiseShip\obj\Debug\netcoreapp3.1\ex3cruiseShip.dll
+C:\Users\tex_sof_adm\source\repos\examPrep\ex3cruiseShip\obj\Debug\netcoreapp3.1\ex3cruiseShip.pdb
