@@ -1,0 +1,11 @@
+I:\Programing Basics Course\PROJECTS\D2\Greeting\Greeting\bin\Debug\netcoreapp3.1\Greeting.exe
+I:\Programing Basics Course\PROJECTS\D2\Greeting\Greeting\bin\Debug\netcoreapp3.1\Greeting.deps.json
+I:\Programing Basics Course\PROJECTS\D2\Greeting\Greeting\bin\Debug\netcoreapp3.1\Greeting.runtimeconfig.json
+I:\Programing Basics Course\PROJECTS\D2\Greeting\Greeting\bin\Debug\netcoreapp3.1\Greeting.runtimeconfig.dev.json
+I:\Programing Basics Course\PROJECTS\D2\Greeting\Greeting\bin\Debug\netcoreapp3.1\Greeting.dll
+I:\Programing Basics Course\PROJECTS\D2\Greeting\Greeting\bin\Debug\netcoreapp3.1\Greeting.pdb
+I:\Programing Basics Course\PROJECTS\D2\Greeting\Greeting\obj\Debug\netcoreapp3.1\Greeting.csprojAssemblyReference.cache
+I:\Programing Basics Course\PROJECTS\D2\Greeting\Greeting\obj\Debug\netcoreapp3.1\Greeting.AssemblyInfoInputs.cache
+I:\Programing Basics Course\PROJECTS\D2\Greeting\Greeting\obj\Debug\netcoreapp3.1\Greeting.AssemblyInfo.cs
+I:\Programing Basics Course\PROJECTS\D2\Greeting\Greeting\obj\Debug\netcoreapp3.1\Greeting.dll
+I:\Programing Basics Course\PROJECTS\D2\Greeting\Greeting\obj\Debug\netcoreapp3.1\Greeting.pdb
