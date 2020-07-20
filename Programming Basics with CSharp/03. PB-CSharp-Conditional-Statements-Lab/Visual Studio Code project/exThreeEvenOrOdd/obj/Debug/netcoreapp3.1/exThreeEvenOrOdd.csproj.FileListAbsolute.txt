@@ -1,0 +1,10 @@
+C:\Users\tex_sof_adm\source\repos\ConsoleApp1\exThreeEvenOrOdd\bin\Debug\netcoreapp3.1\exThreeEvenOrOdd.exe
+C:\Users\tex_sof_adm\source\repos\ConsoleApp1\exThreeEvenOrOdd\bin\Debug\netcoreapp3.1\exThreeEvenOrOdd.deps.json
+C:\Users\tex_sof_adm\source\repos\ConsoleApp1\exThreeEvenOrOdd\bin\Debug\netcoreapp3.1\exThreeEvenOrOdd.runtimeconfig.json
+C:\Users\tex_sof_adm\source\repos\ConsoleApp1\exThreeEvenOrOdd\bin\Debug\netcoreapp3.1\exThreeEvenOrOdd.runtimeconfig.dev.json
+C:\Users\tex_sof_adm\source\repos\ConsoleApp1\exThreeEvenOrOdd\bin\Debug\netcoreapp3.1\exThreeEvenOrOdd.dll
+C:\Users\tex_sof_adm\source\repos\ConsoleApp1\exThreeEvenOrOdd\bin\Debug\netcoreapp3.1\exThreeEvenOrOdd.pdb
+C:\Users\tex_sof_adm\source\repos\ConsoleApp1\exThreeEvenOrOdd\obj\Debug\netcoreapp3.1\exThreeEvenOrOdd.AssemblyInfoInputs.cache
+C:\Users\tex_sof_adm\source\repos\ConsoleApp1\exThreeEvenOrOdd\obj\Debug\netcoreapp3.1\exThreeEvenOrOdd.AssemblyInfo.cs
+C:\Users\tex_sof_adm\source\repos\ConsoleApp1\exThreeEvenOrOdd\obj\Debug\netcoreapp3.1\exThreeEvenOrOdd.dll
+C:\Users\tex_sof_adm\source\repos\ConsoleApp1\exThreeEvenOrOdd\obj\Debug\netcoreapp3.1\exThreeEvenOrOdd.pdb

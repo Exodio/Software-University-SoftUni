@@ -1,0 +1,22 @@
+C:\Users\DRAGON\Desktop\Flash\Programing Basics Course\L4- Проверки\Conditionals\KidsToyShop\bin\Debug\netcoreapp3.1\KidsToyShop.exe
+C:\Users\DRAGON\Desktop\Flash\Programing Basics Course\L4- Проверки\Conditionals\KidsToyShop\bin\Debug\netcoreapp3.1\KidsToyShop.deps.json
+C:\Users\DRAGON\Desktop\Flash\Programing Basics Course\L4- Проверки\Conditionals\KidsToyShop\bin\Debug\netcoreapp3.1\KidsToyShop.runtimeconfig.json
+C:\Users\DRAGON\Desktop\Flash\Programing Basics Course\L4- Проверки\Conditionals\KidsToyShop\bin\Debug\netcoreapp3.1\KidsToyShop.runtimeconfig.dev.json
+C:\Users\DRAGON\Desktop\Flash\Programing Basics Course\L4- Проверки\Conditionals\KidsToyShop\bin\Debug\netcoreapp3.1\KidsToyShop.dll
+C:\Users\DRAGON\Desktop\Flash\Programing Basics Course\L4- Проверки\Conditionals\KidsToyShop\bin\Debug\netcoreapp3.1\KidsToyShop.pdb
+C:\Users\DRAGON\Desktop\Flash\Programing Basics Course\L4- Проверки\Conditionals\KidsToyShop\obj\Debug\netcoreapp3.1\KidsToyShop.csprojAssemblyReference.cache
+C:\Users\DRAGON\Desktop\Flash\Programing Basics Course\L4- Проверки\Conditionals\KidsToyShop\obj\Debug\netcoreapp3.1\KidsToyShop.AssemblyInfoInputs.cache
+C:\Users\DRAGON\Desktop\Flash\Programing Basics Course\L4- Проверки\Conditionals\KidsToyShop\obj\Debug\netcoreapp3.1\KidsToyShop.AssemblyInfo.cs
+C:\Users\DRAGON\Desktop\Flash\Programing Basics Course\L4- Проверки\Conditionals\KidsToyShop\obj\Debug\netcoreapp3.1\KidsToyShop.dll
+C:\Users\DRAGON\Desktop\Flash\Programing Basics Course\L4- Проверки\Conditionals\KidsToyShop\obj\Debug\netcoreapp3.1\KidsToyShop.pdb
+C:\Users\Adrian\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\L4\Conditionals\KidsToyShop\bin\Debug\netcoreapp3.1\KidsToyShop.exe
+C:\Users\Adrian\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\L4\Conditionals\KidsToyShop\bin\Debug\netcoreapp3.1\KidsToyShop.deps.json
+C:\Users\Adrian\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\L4\Conditionals\KidsToyShop\bin\Debug\netcoreapp3.1\KidsToyShop.runtimeconfig.json
+C:\Users\Adrian\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\L4\Conditionals\KidsToyShop\bin\Debug\netcoreapp3.1\KidsToyShop.runtimeconfig.dev.json
+C:\Users\Adrian\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\L4\Conditionals\KidsToyShop\bin\Debug\netcoreapp3.1\KidsToyShop.dll
+C:\Users\Adrian\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\L4\Conditionals\KidsToyShop\bin\Debug\netcoreapp3.1\KidsToyShop.pdb
+C:\Users\Adrian\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\L4\Conditionals\KidsToyShop\obj\Debug\netcoreapp3.1\KidsToyShop.csprojAssemblyReference.cache
+C:\Users\Adrian\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\L4\Conditionals\KidsToyShop\obj\Debug\netcoreapp3.1\KidsToyShop.AssemblyInfoInputs.cache
+C:\Users\Adrian\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\L4\Conditionals\KidsToyShop\obj\Debug\netcoreapp3.1\KidsToyShop.AssemblyInfo.cs
+C:\Users\Adrian\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\L4\Conditionals\KidsToyShop\obj\Debug\netcoreapp3.1\KidsToyShop.dll
+C:\Users\Adrian\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\L4\Conditionals\KidsToyShop\obj\Debug\netcoreapp3.1\KidsToyShop.pdb

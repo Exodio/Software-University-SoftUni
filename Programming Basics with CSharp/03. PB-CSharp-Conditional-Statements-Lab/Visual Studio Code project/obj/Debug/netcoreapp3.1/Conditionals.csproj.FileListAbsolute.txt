@@ -1,0 +1,22 @@
+C:\Users\DRAGON\Desktop\Flash\Programing Basics Course\L4- Проверки\Conditionals\Conditionals\bin\Debug\netcoreapp3.1\Conditionals.exe
+C:\Users\DRAGON\Desktop\Flash\Programing Basics Course\L4- Проверки\Conditionals\Conditionals\bin\Debug\netcoreapp3.1\Conditionals.deps.json
+C:\Users\DRAGON\Desktop\Flash\Programing Basics Course\L4- Проверки\Conditionals\Conditionals\bin\Debug\netcoreapp3.1\Conditionals.runtimeconfig.json
+C:\Users\DRAGON\Desktop\Flash\Programing Basics Course\L4- Проверки\Conditionals\Conditionals\bin\Debug\netcoreapp3.1\Conditionals.runtimeconfig.dev.json
+C:\Users\DRAGON\Desktop\Flash\Programing Basics Course\L4- Проверки\Conditionals\Conditionals\bin\Debug\netcoreapp3.1\Conditionals.dll
+C:\Users\DRAGON\Desktop\Flash\Programing Basics Course\L4- Проверки\Conditionals\Conditionals\bin\Debug\netcoreapp3.1\Conditionals.pdb
+C:\Users\DRAGON\Desktop\Flash\Programing Basics Course\L4- Проверки\Conditionals\Conditionals\obj\Debug\netcoreapp3.1\Conditionals.csprojAssemblyReference.cache
+C:\Users\DRAGON\Desktop\Flash\Programing Basics Course\L4- Проверки\Conditionals\Conditionals\obj\Debug\netcoreapp3.1\Conditionals.AssemblyInfoInputs.cache
+C:\Users\DRAGON\Desktop\Flash\Programing Basics Course\L4- Проверки\Conditionals\Conditionals\obj\Debug\netcoreapp3.1\Conditionals.AssemblyInfo.cs
+C:\Users\DRAGON\Desktop\Flash\Programing Basics Course\L4- Проверки\Conditionals\Conditionals\obj\Debug\netcoreapp3.1\Conditionals.dll
+C:\Users\DRAGON\Desktop\Flash\Programing Basics Course\L4- Проверки\Conditionals\Conditionals\obj\Debug\netcoreapp3.1\Conditionals.pdb
+C:\Users\Adrian\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\L4\Conditionals\Conditionals\bin\Debug\netcoreapp3.1\Conditionals.exe
+C:\Users\Adrian\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\L4\Conditionals\Conditionals\bin\Debug\netcoreapp3.1\Conditionals.deps.json
+C:\Users\Adrian\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\L4\Conditionals\Conditionals\bin\Debug\netcoreapp3.1\Conditionals.runtimeconfig.json
+C:\Users\Adrian\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\L4\Conditionals\Conditionals\bin\Debug\netcoreapp3.1\Conditionals.runtimeconfig.dev.json
+C:\Users\Adrian\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\L4\Conditionals\Conditionals\bin\Debug\netcoreapp3.1\Conditionals.dll
+C:\Users\Adrian\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\L4\Conditionals\Conditionals\bin\Debug\netcoreapp3.1\Conditionals.pdb
+C:\Users\Adrian\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\L4\Conditionals\Conditionals\obj\Debug\netcoreapp3.1\Conditionals.csprojAssemblyReference.cache
+C:\Users\Adrian\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\L4\Conditionals\Conditionals\obj\Debug\netcoreapp3.1\Conditionals.AssemblyInfoInputs.cache
+C:\Users\Adrian\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\L4\Conditionals\Conditionals\obj\Debug\netcoreapp3.1\Conditionals.AssemblyInfo.cs
+C:\Users\Adrian\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\L4\Conditionals\Conditionals\obj\Debug\netcoreapp3.1\Conditionals.dll
+C:\Users\Adrian\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\L4\Conditionals\Conditionals\obj\Debug\netcoreapp3.1\Conditionals.pdb
