@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SW9eQIB6XWFhHNAMyVuDVA0+hWSLdsfRdTOWG8O8VgWVSjT3rHSa0E6lSSC2/7qwy8K5LXxkJfRW5dWXuCpywQ==",
+  "success": true,
+  "projectFilePath": "E:\\Flash&Study\\Programming\\PF\\C#\\Programming Fundamentals C#\\1.CSF-IntroAndBasicSyntrax\\1.CSF-IntroAndBasicSyntrax\\1.CSF-IntroAndBasicSyntrax.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DRAGON\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
