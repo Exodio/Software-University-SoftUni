@@ -1,0 +1,11 @@
+C:\Users\tex_sof_adm\source\repos\ConsoleApp1\exFourNumbersFromOneToNine\bin\Debug\netcoreapp3.1\exFourNumbersFromOneToNine.exe
+C:\Users\tex_sof_adm\source\repos\ConsoleApp1\exFourNumbersFromOneToNine\bin\Debug\netcoreapp3.1\exFourNumbersFromOneToNine.deps.json
+C:\Users\tex_sof_adm\source\repos\ConsoleApp1\exFourNumbersFromOneToNine\bin\Debug\netcoreapp3.1\exFourNumbersFromOneToNine.runtimeconfig.json
+C:\Users\tex_sof_adm\source\repos\ConsoleApp1\exFourNumbersFromOneToNine\bin\Debug\netcoreapp3.1\exFourNumbersFromOneToNine.runtimeconfig.dev.json
+C:\Users\tex_sof_adm\source\repos\ConsoleApp1\exFourNumbersFromOneToNine\bin\Debug\netcoreapp3.1\exFourNumbersFromOneToNine.dll
+C:\Users\tex_sof_adm\source\repos\ConsoleApp1\exFourNumbersFromOneToNine\bin\Debug\netcoreapp3.1\exFourNumbersFromOneToNine.pdb
+C:\Users\tex_sof_adm\source\repos\ConsoleApp1\exFourNumbersFromOneToNine\obj\Debug\netcoreapp3.1\exFourNumbersFromOneToNine.csprojAssemblyReference.cache
+C:\Users\tex_sof_adm\source\repos\ConsoleApp1\exFourNumbersFromOneToNine\obj\Debug\netcoreapp3.1\exFourNumbersFromOneToNine.AssemblyInfoInputs.cache
+C:\Users\tex_sof_adm\source\repos\ConsoleApp1\exFourNumbersFromOneToNine\obj\Debug\netcoreapp3.1\exFourNumbersFromOneToNine.AssemblyInfo.cs
+C:\Users\tex_sof_adm\source\repos\ConsoleApp1\exFourNumbersFromOneToNine\obj\Debug\netcoreapp3.1\exFourNumbersFromOneToNine.dll
+C:\Users\tex_sof_adm\source\repos\ConsoleApp1\exFourNumbersFromOneToNine\obj\Debug\netcoreapp3.1\exFourNumbersFromOneToNine.pdb

@@ -1,0 +1,11 @@
+C:\Users\tex_sof_adm\source\repos\ConsoleApp1\ExSevenFiguresFaceDemo\bin\Debug\netcoreapp3.1\ExSevenFiguresFaceDemo.exe
+C:\Users\tex_sof_adm\source\repos\ConsoleApp1\ExSevenFiguresFaceDemo\bin\Debug\netcoreapp3.1\ExSevenFiguresFaceDemo.deps.json
+C:\Users\tex_sof_adm\source\repos\ConsoleApp1\ExSevenFiguresFaceDemo\bin\Debug\netcoreapp3.1\ExSevenFiguresFaceDemo.runtimeconfig.json
+C:\Users\tex_sof_adm\source\repos\ConsoleApp1\ExSevenFiguresFaceDemo\bin\Debug\netcoreapp3.1\ExSevenFiguresFaceDemo.runtimeconfig.dev.json
+C:\Users\tex_sof_adm\source\repos\ConsoleApp1\ExSevenFiguresFaceDemo\bin\Debug\netcoreapp3.1\ExSevenFiguresFaceDemo.dll
+C:\Users\tex_sof_adm\source\repos\ConsoleApp1\ExSevenFiguresFaceDemo\bin\Debug\netcoreapp3.1\ExSevenFiguresFaceDemo.pdb
+C:\Users\tex_sof_adm\source\repos\ConsoleApp1\ExSevenFiguresFaceDemo\obj\Debug\netcoreapp3.1\ExSevenFiguresFaceDemo.csprojAssemblyReference.cache
+C:\Users\tex_sof_adm\source\repos\ConsoleApp1\ExSevenFiguresFaceDemo\obj\Debug\netcoreapp3.1\ExSevenFiguresFaceDemo.AssemblyInfoInputs.cache
+C:\Users\tex_sof_adm\source\repos\ConsoleApp1\ExSevenFiguresFaceDemo\obj\Debug\netcoreapp3.1\ExSevenFiguresFaceDemo.AssemblyInfo.cs
+C:\Users\tex_sof_adm\source\repos\ConsoleApp1\ExSevenFiguresFaceDemo\obj\Debug\netcoreapp3.1\ExSevenFiguresFaceDemo.dll
+C:\Users\tex_sof_adm\source\repos\ConsoleApp1\ExSevenFiguresFaceDemo\obj\Debug\netcoreapp3.1\ExSevenFiguresFaceDemo.pdb
