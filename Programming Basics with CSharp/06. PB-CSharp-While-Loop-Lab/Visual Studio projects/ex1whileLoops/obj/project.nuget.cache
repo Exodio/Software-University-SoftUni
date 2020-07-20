@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fZEHugRYjBH1ku0rId+DmksjCc+f3zgxhJP5vHlcXjbI0oodFVmPsevDUhADX7BbJI3rXViAuCpkAo+9fJNnMg==",
+  "success": true,
+  "projectFilePath": "E:\\Flash&Study\\Programming\\PB\\Programing Basics\\VISUAL STUDIO PROJECTS\\L6\\whileLoops\\whileLoops\\whileLoopsex1readText.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DRAGON\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
