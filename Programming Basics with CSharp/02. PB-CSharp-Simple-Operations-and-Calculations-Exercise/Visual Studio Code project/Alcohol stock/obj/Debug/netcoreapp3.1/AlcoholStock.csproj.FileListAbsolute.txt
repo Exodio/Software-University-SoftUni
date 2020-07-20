@@ -1,0 +1,11 @@
+I:\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\D3\USD to BGN\AlcoholStock\obj\Debug\netcoreapp3.1\AlcoholStock.AssemblyInfoInputs.cache
+I:\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\D3\USD to BGN\AlcoholStock\obj\Debug\netcoreapp3.1\AlcoholStock.AssemblyInfo.cs
+I:\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\D3\USD to BGN\AlcoholStock\bin\Debug\netcoreapp3.1\AlcoholStock.exe
+I:\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\D3\USD to BGN\AlcoholStock\bin\Debug\netcoreapp3.1\AlcoholStock.deps.json
+I:\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\D3\USD to BGN\AlcoholStock\bin\Debug\netcoreapp3.1\AlcoholStock.runtimeconfig.json
+I:\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\D3\USD to BGN\AlcoholStock\bin\Debug\netcoreapp3.1\AlcoholStock.runtimeconfig.dev.json
+I:\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\D3\USD to BGN\AlcoholStock\bin\Debug\netcoreapp3.1\AlcoholStock.dll
+I:\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\D3\USD to BGN\AlcoholStock\bin\Debug\netcoreapp3.1\AlcoholStock.pdb
+I:\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\D3\USD to BGN\AlcoholStock\obj\Debug\netcoreapp3.1\AlcoholStock.dll
+I:\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\D3\USD to BGN\AlcoholStock\obj\Debug\netcoreapp3.1\AlcoholStock.pdb
+I:\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\D3\USD to BGN\AlcoholStock\obj\Debug\netcoreapp3.1\AlcoholStock.csprojAssemblyReference.cache
