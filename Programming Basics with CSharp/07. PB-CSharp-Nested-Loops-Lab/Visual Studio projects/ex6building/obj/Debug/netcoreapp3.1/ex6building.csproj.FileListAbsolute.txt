@@ -1,0 +1,11 @@
+C:\Users\tex_sof_adm\Downloads\nestedLoops\ex6building\bin\Debug\netcoreapp3.1\ex6building.exe
+C:\Users\tex_sof_adm\Downloads\nestedLoops\ex6building\bin\Debug\netcoreapp3.1\ex6building.deps.json
+C:\Users\tex_sof_adm\Downloads\nestedLoops\ex6building\bin\Debug\netcoreapp3.1\ex6building.runtimeconfig.json
+C:\Users\tex_sof_adm\Downloads\nestedLoops\ex6building\bin\Debug\netcoreapp3.1\ex6building.runtimeconfig.dev.json
+C:\Users\tex_sof_adm\Downloads\nestedLoops\ex6building\bin\Debug\netcoreapp3.1\ex6building.dll
+C:\Users\tex_sof_adm\Downloads\nestedLoops\ex6building\bin\Debug\netcoreapp3.1\ex6building.pdb
+C:\Users\tex_sof_adm\Downloads\nestedLoops\ex6building\obj\Debug\netcoreapp3.1\ex6building.csprojAssemblyReference.cache
+C:\Users\tex_sof_adm\Downloads\nestedLoops\ex6building\obj\Debug\netcoreapp3.1\ex6building.AssemblyInfoInputs.cache
+C:\Users\tex_sof_adm\Downloads\nestedLoops\ex6building\obj\Debug\netcoreapp3.1\ex6building.AssemblyInfo.cs
+C:\Users\tex_sof_adm\Downloads\nestedLoops\ex6building\obj\Debug\netcoreapp3.1\ex6building.dll
+C:\Users\tex_sof_adm\Downloads\nestedLoops\ex6building\obj\Debug\netcoreapp3.1\ex6building.pdb

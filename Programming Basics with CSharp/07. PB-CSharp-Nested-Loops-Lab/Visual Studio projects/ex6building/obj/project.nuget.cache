@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cxMfz1jynrfzTN70wnKGTsUK8xe9U79KeoTY9faAy7sCcuJ5RI96BFYvr5g1+475JBRSLFp1t1rCqou092lQHA==",
+  "success": true,
+  "projectFilePath": "E:\\Flash&Study\\Programming\\PB\\Programing Basics\\VISUAL STUDIO PROJECTS\\L7\\nestedLoops\\ex6building\\ex6building.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DRAGON\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

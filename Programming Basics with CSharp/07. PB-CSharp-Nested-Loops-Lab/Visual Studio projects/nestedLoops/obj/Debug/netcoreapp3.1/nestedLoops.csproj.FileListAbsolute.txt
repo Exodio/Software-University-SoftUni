@@ -1,0 +1,11 @@
+C:\Users\tex_sof_adm\Downloads\nestedLoops\nestedLoops\bin\Debug\netcoreapp3.1\nestedLoops.exe
+C:\Users\tex_sof_adm\Downloads\nestedLoops\nestedLoops\bin\Debug\netcoreapp3.1\nestedLoops.deps.json
+C:\Users\tex_sof_adm\Downloads\nestedLoops\nestedLoops\bin\Debug\netcoreapp3.1\nestedLoops.runtimeconfig.json
+C:\Users\tex_sof_adm\Downloads\nestedLoops\nestedLoops\bin\Debug\netcoreapp3.1\nestedLoops.runtimeconfig.dev.json
+C:\Users\tex_sof_adm\Downloads\nestedLoops\nestedLoops\bin\Debug\netcoreapp3.1\nestedLoops.dll
+C:\Users\tex_sof_adm\Downloads\nestedLoops\nestedLoops\bin\Debug\netcoreapp3.1\nestedLoops.pdb
+C:\Users\tex_sof_adm\Downloads\nestedLoops\nestedLoops\obj\Debug\netcoreapp3.1\nestedLoops.csprojAssemblyReference.cache
+C:\Users\tex_sof_adm\Downloads\nestedLoops\nestedLoops\obj\Debug\netcoreapp3.1\nestedLoops.AssemblyInfoInputs.cache
+C:\Users\tex_sof_adm\Downloads\nestedLoops\nestedLoops\obj\Debug\netcoreapp3.1\nestedLoops.AssemblyInfo.cs
+C:\Users\tex_sof_adm\Downloads\nestedLoops\nestedLoops\obj\Debug\netcoreapp3.1\nestedLoops.dll
+C:\Users\tex_sof_adm\Downloads\nestedLoops\nestedLoops\obj\Debug\netcoreapp3.1\nestedLoops.pdb

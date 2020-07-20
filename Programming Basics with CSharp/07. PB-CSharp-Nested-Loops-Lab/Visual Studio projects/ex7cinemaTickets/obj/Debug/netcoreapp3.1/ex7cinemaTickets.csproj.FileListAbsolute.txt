@@ -1,0 +1,11 @@
+C:\Users\tex_sof_adm\Downloads\nestedLoops\ex7cinemaTickets\bin\Debug\netcoreapp3.1\ex7cinemaTickets.exe
+C:\Users\tex_sof_adm\Downloads\nestedLoops\ex7cinemaTickets\bin\Debug\netcoreapp3.1\ex7cinemaTickets.deps.json
+C:\Users\tex_sof_adm\Downloads\nestedLoops\ex7cinemaTickets\bin\Debug\netcoreapp3.1\ex7cinemaTickets.runtimeconfig.json
+C:\Users\tex_sof_adm\Downloads\nestedLoops\ex7cinemaTickets\bin\Debug\netcoreapp3.1\ex7cinemaTickets.runtimeconfig.dev.json
+C:\Users\tex_sof_adm\Downloads\nestedLoops\ex7cinemaTickets\bin\Debug\netcoreapp3.1\ex7cinemaTickets.dll
+C:\Users\tex_sof_adm\Downloads\nestedLoops\ex7cinemaTickets\bin\Debug\netcoreapp3.1\ex7cinemaTickets.pdb
+C:\Users\tex_sof_adm\Downloads\nestedLoops\ex7cinemaTickets\obj\Debug\netcoreapp3.1\ex7cinemaTickets.csprojAssemblyReference.cache
+C:\Users\tex_sof_adm\Downloads\nestedLoops\ex7cinemaTickets\obj\Debug\netcoreapp3.1\ex7cinemaTickets.AssemblyInfoInputs.cache
+C:\Users\tex_sof_adm\Downloads\nestedLoops\ex7cinemaTickets\obj\Debug\netcoreapp3.1\ex7cinemaTickets.AssemblyInfo.cs
+C:\Users\tex_sof_adm\Downloads\nestedLoops\ex7cinemaTickets\obj\Debug\netcoreapp3.1\ex7cinemaTickets.dll
+C:\Users\tex_sof_adm\Downloads\nestedLoops\ex7cinemaTickets\obj\Debug\netcoreapp3.1\ex7cinemaTickets.pdb
