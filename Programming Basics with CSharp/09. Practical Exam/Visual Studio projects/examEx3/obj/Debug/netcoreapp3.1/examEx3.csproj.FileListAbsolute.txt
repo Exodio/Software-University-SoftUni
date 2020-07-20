@@ -1,0 +1,11 @@
+C:\Users\DRAGON\Desktop\Flash&Study\Software University\Programing Basics\VISUAL STUDIO PROJECTS\L10\pbExam\examEx3\bin\Debug\netcoreapp3.1\examEx3.exe
+C:\Users\DRAGON\Desktop\Flash&Study\Software University\Programing Basics\VISUAL STUDIO PROJECTS\L10\pbExam\examEx3\bin\Debug\netcoreapp3.1\examEx3.deps.json
+C:\Users\DRAGON\Desktop\Flash&Study\Software University\Programing Basics\VISUAL STUDIO PROJECTS\L10\pbExam\examEx3\bin\Debug\netcoreapp3.1\examEx3.runtimeconfig.json
+C:\Users\DRAGON\Desktop\Flash&Study\Software University\Programing Basics\VISUAL STUDIO PROJECTS\L10\pbExam\examEx3\bin\Debug\netcoreapp3.1\examEx3.runtimeconfig.dev.json
+C:\Users\DRAGON\Desktop\Flash&Study\Software University\Programing Basics\VISUAL STUDIO PROJECTS\L10\pbExam\examEx3\bin\Debug\netcoreapp3.1\examEx3.dll
+C:\Users\DRAGON\Desktop\Flash&Study\Software University\Programing Basics\VISUAL STUDIO PROJECTS\L10\pbExam\examEx3\bin\Debug\netcoreapp3.1\examEx3.pdb
+C:\Users\DRAGON\Desktop\Flash&Study\Software University\Programing Basics\VISUAL STUDIO PROJECTS\L10\pbExam\examEx3\obj\Debug\netcoreapp3.1\examEx3.csprojAssemblyReference.cache
+C:\Users\DRAGON\Desktop\Flash&Study\Software University\Programing Basics\VISUAL STUDIO PROJECTS\L10\pbExam\examEx3\obj\Debug\netcoreapp3.1\examEx3.AssemblyInfoInputs.cache
+C:\Users\DRAGON\Desktop\Flash&Study\Software University\Programing Basics\VISUAL STUDIO PROJECTS\L10\pbExam\examEx3\obj\Debug\netcoreapp3.1\examEx3.AssemblyInfo.cs
+C:\Users\DRAGON\Desktop\Flash&Study\Software University\Programing Basics\VISUAL STUDIO PROJECTS\L10\pbExam\examEx3\obj\Debug\netcoreapp3.1\examEx3.dll
+C:\Users\DRAGON\Desktop\Flash&Study\Software University\Programing Basics\VISUAL STUDIO PROJECTS\L10\pbExam\examEx3\obj\Debug\netcoreapp3.1\examEx3.pdb
