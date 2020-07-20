@@ -1,0 +1,3 @@
+C:\Users\DRAGON\Desktop\Flash&Study\Programing Basics\VISUAL STUDIO PROJECTS\L8\examPrepExercise\examPrep\obj\Debug\netcoreapp3.1\examPrep.csprojAssemblyReference.cache
+C:\Users\DRAGON\Desktop\Flash&Study\Programing Basics\VISUAL STUDIO PROJECTS\L8\examPrepExercise\examPrep\obj\Debug\netcoreapp3.1\examPrep.AssemblyInfoInputs.cache
+C:\Users\DRAGON\Desktop\Flash&Study\Programing Basics\VISUAL STUDIO PROJECTS\L8\examPrepExercise\examPrep\obj\Debug\netcoreapp3.1\examPrep.AssemblyInfo.cs

@@ -1,0 +1,11 @@
+C:\Users\tex_sof_adm\source\repos\examPrep\ex6bakingCompetition\bin\Debug\netcoreapp3.1\ex6bakingCompetition.exe
+C:\Users\tex_sof_adm\source\repos\examPrep\ex6bakingCompetition\bin\Debug\netcoreapp3.1\ex6bakingCompetition.deps.json
+C:\Users\tex_sof_adm\source\repos\examPrep\ex6bakingCompetition\bin\Debug\netcoreapp3.1\ex6bakingCompetition.runtimeconfig.json
+C:\Users\tex_sof_adm\source\repos\examPrep\ex6bakingCompetition\bin\Debug\netcoreapp3.1\ex6bakingCompetition.runtimeconfig.dev.json
+C:\Users\tex_sof_adm\source\repos\examPrep\ex6bakingCompetition\bin\Debug\netcoreapp3.1\ex6bakingCompetition.dll
+C:\Users\tex_sof_adm\source\repos\examPrep\ex6bakingCompetition\bin\Debug\netcoreapp3.1\ex6bakingCompetition.pdb
+C:\Users\tex_sof_adm\source\repos\examPrep\ex6bakingCompetition\obj\Debug\netcoreapp3.1\ex6bakingCompetition.csprojAssemblyReference.cache
+C:\Users\tex_sof_adm\source\repos\examPrep\ex6bakingCompetition\obj\Debug\netcoreapp3.1\ex6bakingCompetition.AssemblyInfoInputs.cache
+C:\Users\tex_sof_adm\source\repos\examPrep\ex6bakingCompetition\obj\Debug\netcoreapp3.1\ex6bakingCompetition.AssemblyInfo.cs
+C:\Users\tex_sof_adm\source\repos\examPrep\ex6bakingCompetition\obj\Debug\netcoreapp3.1\ex6bakingCompetition.dll
+C:\Users\tex_sof_adm\source\repos\examPrep\ex6bakingCompetition\obj\Debug\netcoreapp3.1\ex6bakingCompetition.pdb
