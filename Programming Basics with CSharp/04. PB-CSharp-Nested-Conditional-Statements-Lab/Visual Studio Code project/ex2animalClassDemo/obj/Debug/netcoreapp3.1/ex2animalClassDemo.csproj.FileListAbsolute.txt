@@ -1,0 +1,10 @@
+C:\Users\DRAGON\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\L5\ComplexConditions\ex2animalClassDemo\bin\Debug\netcoreapp3.1\ex2animalClassDemo.exe
+C:\Users\DRAGON\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\L5\ComplexConditions\ex2animalClassDemo\bin\Debug\netcoreapp3.1\ex2animalClassDemo.deps.json
+C:\Users\DRAGON\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\L5\ComplexConditions\ex2animalClassDemo\bin\Debug\netcoreapp3.1\ex2animalClassDemo.runtimeconfig.json
+C:\Users\DRAGON\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\L5\ComplexConditions\ex2animalClassDemo\bin\Debug\netcoreapp3.1\ex2animalClassDemo.runtimeconfig.dev.json
+C:\Users\DRAGON\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\L5\ComplexConditions\ex2animalClassDemo\bin\Debug\netcoreapp3.1\ex2animalClassDemo.dll
+C:\Users\DRAGON\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\L5\ComplexConditions\ex2animalClassDemo\bin\Debug\netcoreapp3.1\ex2animalClassDemo.pdb
+C:\Users\DRAGON\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\L5\ComplexConditions\ex2animalClassDemo\obj\Debug\netcoreapp3.1\ex2animalClassDemo.AssemblyInfoInputs.cache
+C:\Users\DRAGON\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\L5\ComplexConditions\ex2animalClassDemo\obj\Debug\netcoreapp3.1\ex2animalClassDemo.AssemblyInfo.cs
+C:\Users\DRAGON\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\L5\ComplexConditions\ex2animalClassDemo\obj\Debug\netcoreapp3.1\ex2animalClassDemo.dll
+C:\Users\DRAGON\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\L5\ComplexConditions\ex2animalClassDemo\obj\Debug\netcoreapp3.1\ex2animalClassDemo.pdb

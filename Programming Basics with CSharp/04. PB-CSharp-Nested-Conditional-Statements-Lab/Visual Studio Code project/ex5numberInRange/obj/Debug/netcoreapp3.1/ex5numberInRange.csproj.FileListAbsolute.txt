@@ -1,0 +1,10 @@
+C:\Users\DRAGON\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\L5\ComplexConditions\ex5numberInRange\bin\Debug\netcoreapp3.1\ex5numberInRange.exe
+C:\Users\DRAGON\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\L5\ComplexConditions\ex5numberInRange\bin\Debug\netcoreapp3.1\ex5numberInRange.deps.json
+C:\Users\DRAGON\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\L5\ComplexConditions\ex5numberInRange\bin\Debug\netcoreapp3.1\ex5numberInRange.runtimeconfig.json
+C:\Users\DRAGON\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\L5\ComplexConditions\ex5numberInRange\bin\Debug\netcoreapp3.1\ex5numberInRange.runtimeconfig.dev.json
+C:\Users\DRAGON\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\L5\ComplexConditions\ex5numberInRange\bin\Debug\netcoreapp3.1\ex5numberInRange.dll
+C:\Users\DRAGON\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\L5\ComplexConditions\ex5numberInRange\bin\Debug\netcoreapp3.1\ex5numberInRange.pdb
+C:\Users\DRAGON\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\L5\ComplexConditions\ex5numberInRange\obj\Debug\netcoreapp3.1\ex5numberInRange.AssemblyInfoInputs.cache
+C:\Users\DRAGON\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\L5\ComplexConditions\ex5numberInRange\obj\Debug\netcoreapp3.1\ex5numberInRange.AssemblyInfo.cs
+C:\Users\DRAGON\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\L5\ComplexConditions\ex5numberInRange\obj\Debug\netcoreapp3.1\ex5numberInRange.dll
+C:\Users\DRAGON\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\L5\ComplexConditions\ex5numberInRange\obj\Debug\netcoreapp3.1\ex5numberInRange.pdb

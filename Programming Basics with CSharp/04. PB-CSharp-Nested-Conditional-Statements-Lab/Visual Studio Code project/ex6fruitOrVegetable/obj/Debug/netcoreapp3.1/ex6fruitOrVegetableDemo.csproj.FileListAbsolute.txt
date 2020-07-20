@@ -1,0 +1,11 @@
+C:\Users\DRAGON\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\L5\ComplexConditions\ex6fruitOrVegetable\bin\Debug\netcoreapp3.1\ex6fruitOrVegetableDemo.exe
+C:\Users\DRAGON\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\L5\ComplexConditions\ex6fruitOrVegetable\bin\Debug\netcoreapp3.1\ex6fruitOrVegetableDemo.deps.json
+C:\Users\DRAGON\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\L5\ComplexConditions\ex6fruitOrVegetable\bin\Debug\netcoreapp3.1\ex6fruitOrVegetableDemo.runtimeconfig.json
+C:\Users\DRAGON\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\L5\ComplexConditions\ex6fruitOrVegetable\bin\Debug\netcoreapp3.1\ex6fruitOrVegetableDemo.runtimeconfig.dev.json
+C:\Users\DRAGON\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\L5\ComplexConditions\ex6fruitOrVegetable\bin\Debug\netcoreapp3.1\ex6fruitOrVegetableDemo.dll
+C:\Users\DRAGON\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\L5\ComplexConditions\ex6fruitOrVegetable\bin\Debug\netcoreapp3.1\ex6fruitOrVegetableDemo.pdb
+C:\Users\DRAGON\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\L5\ComplexConditions\ex6fruitOrVegetable\obj\Debug\netcoreapp3.1\ex6fruitOrVegetableDemo.csprojAssemblyReference.cache
+C:\Users\DRAGON\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\L5\ComplexConditions\ex6fruitOrVegetable\obj\Debug\netcoreapp3.1\ex6fruitOrVegetableDemo.AssemblyInfoInputs.cache
+C:\Users\DRAGON\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\L5\ComplexConditions\ex6fruitOrVegetable\obj\Debug\netcoreapp3.1\ex6fruitOrVegetableDemo.AssemblyInfo.cs
+C:\Users\DRAGON\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\L5\ComplexConditions\ex6fruitOrVegetable\obj\Debug\netcoreapp3.1\ex6fruitOrVegetableDemo.dll
+C:\Users\DRAGON\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\L5\ComplexConditions\ex6fruitOrVegetable\obj\Debug\netcoreapp3.1\ex6fruitOrVegetableDemo.pdb

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "l7yGWH8gDcURGVwguxAHD3ryYv5Xky68SHUV0KaVyIGSXlkjTwkB3C/6eVQPn+suvgRw1ltEbfZV7WG9IGoQbQ==",
+  "success": true,
+  "projectFilePath": "E:\\Flash&Study\\Programming\\PB\\Programing Basics\\VISUAL STUDIO PROJECTS\\L4\\ComplexConditions\\Ex1DayOfTheWeek\\ex1dayOfTheWeek.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DRAGON\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

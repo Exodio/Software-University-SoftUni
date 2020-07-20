@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TV1Ml0rWj4MVWNe/0zKJBlj/6mFPoJIGfcf130lbVcH6GdK4EG9LGTA2T2nH5toZIKL6Z35E7wnkknpEOhGZCw==",
+  "success": true,
+  "projectFilePath": "E:\\Flash&Study\\Programming\\PB\\Programing Basics\\VISUAL STUDIO PROJECTS\\L4\\ComplexConditions\\ex5numberInRange\\ex5numberInRange.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DRAGON\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

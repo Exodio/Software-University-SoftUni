@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2SBeHtAIGWPCCcHsXjxiK9TTqcwgy6TZ+npz//AUPrxKp90bWEoshZ4aWgrCgoV7CCP/elMOrcI7wygS/dtwgA==",
+  "success": true,
+  "projectFilePath": "E:\\Flash&Study\\Programming\\PB\\Programing Basics\\VISUAL STUDIO PROJECTS\\L4\\ComplexConditions\\ex6fruitOrVegetable\\ex6fruitOrVegetableDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DRAGON\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
