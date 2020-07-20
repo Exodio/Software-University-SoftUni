@@ -1,0 +1,11 @@
+C:\Users\tex_sof_adm\Downloads\1.CSF-IntroAndBasicSyntrax\ex6theatrePromotions\bin\Debug\netcoreapp3.1\ex6theatrePromotions.exe
+C:\Users\tex_sof_adm\Downloads\1.CSF-IntroAndBasicSyntrax\ex6theatrePromotions\bin\Debug\netcoreapp3.1\ex6theatrePromotions.deps.json
+C:\Users\tex_sof_adm\Downloads\1.CSF-IntroAndBasicSyntrax\ex6theatrePromotions\bin\Debug\netcoreapp3.1\ex6theatrePromotions.runtimeconfig.json
+C:\Users\tex_sof_adm\Downloads\1.CSF-IntroAndBasicSyntrax\ex6theatrePromotions\bin\Debug\netcoreapp3.1\ex6theatrePromotions.runtimeconfig.dev.json
+C:\Users\tex_sof_adm\Downloads\1.CSF-IntroAndBasicSyntrax\ex6theatrePromotions\bin\Debug\netcoreapp3.1\ex6theatrePromotions.dll
+C:\Users\tex_sof_adm\Downloads\1.CSF-IntroAndBasicSyntrax\ex6theatrePromotions\bin\Debug\netcoreapp3.1\ex6theatrePromotions.pdb
+C:\Users\tex_sof_adm\Downloads\1.CSF-IntroAndBasicSyntrax\ex6theatrePromotions\obj\Debug\netcoreapp3.1\ex6theatrePromotions.csprojAssemblyReference.cache
+C:\Users\tex_sof_adm\Downloads\1.CSF-IntroAndBasicSyntrax\ex6theatrePromotions\obj\Debug\netcoreapp3.1\ex6theatrePromotions.AssemblyInfoInputs.cache
+C:\Users\tex_sof_adm\Downloads\1.CSF-IntroAndBasicSyntrax\ex6theatrePromotions\obj\Debug\netcoreapp3.1\ex6theatrePromotions.AssemblyInfo.cs
+C:\Users\tex_sof_adm\Downloads\1.CSF-IntroAndBasicSyntrax\ex6theatrePromotions\obj\Debug\netcoreapp3.1\ex6theatrePromotions.dll
+C:\Users\tex_sof_adm\Downloads\1.CSF-IntroAndBasicSyntrax\ex6theatrePromotions\obj\Debug\netcoreapp3.1\ex6theatrePromotions.pdb
