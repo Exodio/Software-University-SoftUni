@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WVgwpj4Mro4kHz9v78vzd/xPDuGVG6IwCDH8Iegm1BkMOerNEsWhvmKLqBumpv+63nzHYYRUTgBSHBRbgONPKA==",
+  "success": true,
+  "projectFilePath": "E:\\Flash&Study\\Programming\\PB\\Programing Basics\\VISUAL STUDIO PROJECTS\\L6\\whileLoops\\ex5accountBalance\\ex5accountBalance.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DRAGON\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

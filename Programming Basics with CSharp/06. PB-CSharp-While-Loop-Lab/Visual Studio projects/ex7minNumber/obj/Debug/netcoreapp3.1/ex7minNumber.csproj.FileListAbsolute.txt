@@ -1,0 +1,24 @@
+C:\Users\tex_sof_adm\Downloads\WhileLoopsEx\ex7minNumber\bin\Debug\netcoreapp3.1\ex7minNumber.exe
+C:\Users\tex_sof_adm\Downloads\WhileLoopsEx\ex7minNumber\bin\Debug\netcoreapp3.1\ex7minNumber.deps.json
+C:\Users\tex_sof_adm\Downloads\WhileLoopsEx\ex7minNumber\bin\Debug\netcoreapp3.1\ex7minNumber.runtimeconfig.json
+C:\Users\tex_sof_adm\Downloads\WhileLoopsEx\ex7minNumber\bin\Debug\netcoreapp3.1\ex7minNumber.runtimeconfig.dev.json
+C:\Users\tex_sof_adm\Downloads\WhileLoopsEx\ex7minNumber\bin\Debug\netcoreapp3.1\ex7minNumber.dll
+C:\Users\tex_sof_adm\Downloads\WhileLoopsEx\ex7minNumber\bin\Debug\netcoreapp3.1\ex7minNumber.pdb
+C:\Users\tex_sof_adm\Downloads\WhileLoopsEx\ex7minNumber\obj\Debug\netcoreapp3.1\ex7minNumber.csprojAssemblyReference.cache
+C:\Users\tex_sof_adm\Downloads\WhileLoopsEx\ex7minNumber\obj\Debug\netcoreapp3.1\ex7minNumber.AssemblyInfoInputs.cache
+C:\Users\tex_sof_adm\Downloads\WhileLoopsEx\ex7minNumber\obj\Debug\netcoreapp3.1\ex7minNumber.AssemblyInfo.cs
+C:\Users\tex_sof_adm\Downloads\WhileLoopsEx\ex7minNumber\obj\Debug\netcoreapp3.1\ex7minNumber.dll
+C:\Users\tex_sof_adm\Downloads\WhileLoopsEx\ex7minNumber\obj\Debug\netcoreapp3.1\ex7minNumber.pdb
+E:\Flash&Study\Programming\PB\Programing Basics\VISUAL STUDIO PROJECTS\L6\whileLoops\ex7minNumber\bin\Debug\netcoreapp3.1\ex7minNumber.exe
+E:\Flash&Study\Programming\PB\Programing Basics\VISUAL STUDIO PROJECTS\L6\whileLoops\ex7minNumber\bin\Debug\netcoreapp3.1\ex7minNumber.deps.json
+E:\Flash&Study\Programming\PB\Programing Basics\VISUAL STUDIO PROJECTS\L6\whileLoops\ex7minNumber\bin\Debug\netcoreapp3.1\ex7minNumber.runtimeconfig.json
+E:\Flash&Study\Programming\PB\Programing Basics\VISUAL STUDIO PROJECTS\L6\whileLoops\ex7minNumber\bin\Debug\netcoreapp3.1\ex7minNumber.runtimeconfig.dev.json
+E:\Flash&Study\Programming\PB\Programing Basics\VISUAL STUDIO PROJECTS\L6\whileLoops\ex7minNumber\bin\Debug\netcoreapp3.1\ex7minNumber.dll
+E:\Flash&Study\Programming\PB\Programing Basics\VISUAL STUDIO PROJECTS\L6\whileLoops\ex7minNumber\bin\Debug\netcoreapp3.1\ex7minNumber.pdb
+E:\Flash&Study\Programming\PB\Programing Basics\VISUAL STUDIO PROJECTS\L6\whileLoops\ex7minNumber\obj\Debug\netcoreapp3.1\ex7minNumber.csprojAssemblyReference.cache
+E:\Flash&Study\Programming\PB\Programing Basics\VISUAL STUDIO PROJECTS\L6\whileLoops\ex7minNumber\obj\Debug\netcoreapp3.1\ex7minNumber.AssemblyInfoInputs.cache
+E:\Flash&Study\Programming\PB\Programing Basics\VISUAL STUDIO PROJECTS\L6\whileLoops\ex7minNumber\obj\Debug\netcoreapp3.1\ex7minNumber.AssemblyInfo.cs
+E:\Flash&Study\Programming\PB\Programing Basics\VISUAL STUDIO PROJECTS\L6\whileLoops\ex7minNumber\obj\Debug\netcoreapp3.1\ex7minNumber.csproj.CoreCompileInputs.cache
+E:\Flash&Study\Programming\PB\Programing Basics\VISUAL STUDIO PROJECTS\L6\whileLoops\ex7minNumber\obj\Debug\netcoreapp3.1\ex7minNumber.dll
+E:\Flash&Study\Programming\PB\Programing Basics\VISUAL STUDIO PROJECTS\L6\whileLoops\ex7minNumber\obj\Debug\netcoreapp3.1\ex7minNumber.pdb
+E:\Flash&Study\Programming\PB\Programing Basics\VISUAL STUDIO PROJECTS\L6\whileLoops\ex7minNumber\obj\Debug\netcoreapp3.1\ex7minNumber.genruntimeconfig.cache

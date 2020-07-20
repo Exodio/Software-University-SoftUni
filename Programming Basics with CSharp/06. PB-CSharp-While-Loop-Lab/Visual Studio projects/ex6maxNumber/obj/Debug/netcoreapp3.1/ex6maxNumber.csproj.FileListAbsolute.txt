@@ -1,0 +1,11 @@
+C:\Users\tex_sof_adm\Downloads\WhileLoopsEx\ex6maxNumber\bin\Debug\netcoreapp3.1\ex6maxNumber.exe
+C:\Users\tex_sof_adm\Downloads\WhileLoopsEx\ex6maxNumber\bin\Debug\netcoreapp3.1\ex6maxNumber.deps.json
+C:\Users\tex_sof_adm\Downloads\WhileLoopsEx\ex6maxNumber\bin\Debug\netcoreapp3.1\ex6maxNumber.runtimeconfig.json
+C:\Users\tex_sof_adm\Downloads\WhileLoopsEx\ex6maxNumber\bin\Debug\netcoreapp3.1\ex6maxNumber.runtimeconfig.dev.json
+C:\Users\tex_sof_adm\Downloads\WhileLoopsEx\ex6maxNumber\bin\Debug\netcoreapp3.1\ex6maxNumber.dll
+C:\Users\tex_sof_adm\Downloads\WhileLoopsEx\ex6maxNumber\bin\Debug\netcoreapp3.1\ex6maxNumber.pdb
+C:\Users\tex_sof_adm\Downloads\WhileLoopsEx\ex6maxNumber\obj\Debug\netcoreapp3.1\ex6maxNumber.csprojAssemblyReference.cache
+C:\Users\tex_sof_adm\Downloads\WhileLoopsEx\ex6maxNumber\obj\Debug\netcoreapp3.1\ex6maxNumber.AssemblyInfoInputs.cache
+C:\Users\tex_sof_adm\Downloads\WhileLoopsEx\ex6maxNumber\obj\Debug\netcoreapp3.1\ex6maxNumber.AssemblyInfo.cs
+C:\Users\tex_sof_adm\Downloads\WhileLoopsEx\ex6maxNumber\obj\Debug\netcoreapp3.1\ex6maxNumber.dll
+C:\Users\tex_sof_adm\Downloads\WhileLoopsEx\ex6maxNumber\obj\Debug\netcoreapp3.1\ex6maxNumber.pdb

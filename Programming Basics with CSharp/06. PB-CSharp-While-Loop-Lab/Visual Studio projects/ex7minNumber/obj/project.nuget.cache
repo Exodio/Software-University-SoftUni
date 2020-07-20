@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "j/jcv6og7hQPyj9hyj3Pi/yNGSAunxL/h+wib2m7/uUhZNHPpUB1tQCGY2brBIo8WG3Bzv7x6mz6RAVafj/vfA==",
+  "success": true,
+  "projectFilePath": "E:\\Flash&Study\\Programming\\PB\\Programing Basics\\VISUAL STUDIO PROJECTS\\L6\\whileLoops\\ex7minNumber\\ex7minNumber.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DRAGON\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
