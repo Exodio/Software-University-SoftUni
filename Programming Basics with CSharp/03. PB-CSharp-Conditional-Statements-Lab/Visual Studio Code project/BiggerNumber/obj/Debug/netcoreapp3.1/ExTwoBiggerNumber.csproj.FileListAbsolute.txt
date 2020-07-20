@@ -1,0 +1,11 @@
+C:\Users\tex_sof_adm\source\repos\ConsoleApp1\BiggerNumber\bin\Debug\netcoreapp3.1\ExTwoBiggerNumber.exe
+C:\Users\tex_sof_adm\source\repos\ConsoleApp1\BiggerNumber\bin\Debug\netcoreapp3.1\ExTwoBiggerNumber.deps.json
+C:\Users\tex_sof_adm\source\repos\ConsoleApp1\BiggerNumber\bin\Debug\netcoreapp3.1\ExTwoBiggerNumber.runtimeconfig.json
+C:\Users\tex_sof_adm\source\repos\ConsoleApp1\BiggerNumber\bin\Debug\netcoreapp3.1\ExTwoBiggerNumber.runtimeconfig.dev.json
+C:\Users\tex_sof_adm\source\repos\ConsoleApp1\BiggerNumber\bin\Debug\netcoreapp3.1\ExTwoBiggerNumber.dll
+C:\Users\tex_sof_adm\source\repos\ConsoleApp1\BiggerNumber\bin\Debug\netcoreapp3.1\ExTwoBiggerNumber.pdb
+C:\Users\tex_sof_adm\source\repos\ConsoleApp1\BiggerNumber\obj\Debug\netcoreapp3.1\ExTwoBiggerNumber.csprojAssemblyReference.cache
+C:\Users\tex_sof_adm\source\repos\ConsoleApp1\BiggerNumber\obj\Debug\netcoreapp3.1\ExTwoBiggerNumber.AssemblyInfoInputs.cache
+C:\Users\tex_sof_adm\source\repos\ConsoleApp1\BiggerNumber\obj\Debug\netcoreapp3.1\ExTwoBiggerNumber.AssemblyInfo.cs
+C:\Users\tex_sof_adm\source\repos\ConsoleApp1\BiggerNumber\obj\Debug\netcoreapp3.1\ExTwoBiggerNumber.dll
+C:\Users\tex_sof_adm\source\repos\ConsoleApp1\BiggerNumber\obj\Debug\netcoreapp3.1\ExTwoBiggerNumber.pdb

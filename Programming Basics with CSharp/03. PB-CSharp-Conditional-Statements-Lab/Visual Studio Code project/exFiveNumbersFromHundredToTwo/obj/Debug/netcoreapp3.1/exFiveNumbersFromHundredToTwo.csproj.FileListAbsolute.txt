@@ -1,0 +1,11 @@
+C:\Users\tex_sof_adm\source\repos\ConsoleApp1\exFiveNumbersFromHundredToTwo\bin\Debug\netcoreapp3.1\exFiveNumbersFromHundredToTwo.exe
+C:\Users\tex_sof_adm\source\repos\ConsoleApp1\exFiveNumbersFromHundredToTwo\bin\Debug\netcoreapp3.1\exFiveNumbersFromHundredToTwo.deps.json
+C:\Users\tex_sof_adm\source\repos\ConsoleApp1\exFiveNumbersFromHundredToTwo\bin\Debug\netcoreapp3.1\exFiveNumbersFromHundredToTwo.runtimeconfig.json
+C:\Users\tex_sof_adm\source\repos\ConsoleApp1\exFiveNumbersFromHundredToTwo\bin\Debug\netcoreapp3.1\exFiveNumbersFromHundredToTwo.runtimeconfig.dev.json
+C:\Users\tex_sof_adm\source\repos\ConsoleApp1\exFiveNumbersFromHundredToTwo\bin\Debug\netcoreapp3.1\exFiveNumbersFromHundredToTwo.dll
+C:\Users\tex_sof_adm\source\repos\ConsoleApp1\exFiveNumbersFromHundredToTwo\bin\Debug\netcoreapp3.1\exFiveNumbersFromHundredToTwo.pdb
+C:\Users\tex_sof_adm\source\repos\ConsoleApp1\exFiveNumbersFromHundredToTwo\obj\Debug\netcoreapp3.1\exFiveNumbersFromHundredToTwo.csprojAssemblyReference.cache
+C:\Users\tex_sof_adm\source\repos\ConsoleApp1\exFiveNumbersFromHundredToTwo\obj\Debug\netcoreapp3.1\exFiveNumbersFromHundredToTwo.AssemblyInfoInputs.cache
+C:\Users\tex_sof_adm\source\repos\ConsoleApp1\exFiveNumbersFromHundredToTwo\obj\Debug\netcoreapp3.1\exFiveNumbersFromHundredToTwo.AssemblyInfo.cs
+C:\Users\tex_sof_adm\source\repos\ConsoleApp1\exFiveNumbersFromHundredToTwo\obj\Debug\netcoreapp3.1\exFiveNumbersFromHundredToTwo.dll
+C:\Users\tex_sof_adm\source\repos\ConsoleApp1\exFiveNumbersFromHundredToTwo\obj\Debug\netcoreapp3.1\exFiveNumbersFromHundredToTwo.pdb
