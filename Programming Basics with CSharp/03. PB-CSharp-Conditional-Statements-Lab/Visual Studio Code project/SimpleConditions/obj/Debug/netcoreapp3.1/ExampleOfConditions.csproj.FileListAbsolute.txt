@@ -1,0 +1,11 @@
+C:\Users\tex_sof_adm\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ExampleOfConditions.exe
+C:\Users\tex_sof_adm\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ExampleOfConditions.deps.json
+C:\Users\tex_sof_adm\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ExampleOfConditions.runtimeconfig.json
+C:\Users\tex_sof_adm\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ExampleOfConditions.runtimeconfig.dev.json
+C:\Users\tex_sof_adm\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ExampleOfConditions.dll
+C:\Users\tex_sof_adm\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ExampleOfConditions.pdb
+C:\Users\tex_sof_adm\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ExampleOfConditions.csprojAssemblyReference.cache
+C:\Users\tex_sof_adm\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ExampleOfConditions.AssemblyInfoInputs.cache
+C:\Users\tex_sof_adm\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ExampleOfConditions.AssemblyInfo.cs
+C:\Users\tex_sof_adm\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ExampleOfConditions.dll
+C:\Users\tex_sof_adm\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ExampleOfConditions.pdb

@@ -1,0 +1,11 @@
+C:\Users\tex_sof_adm\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Conditions.exe
+C:\Users\tex_sof_adm\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Conditions.deps.json
+C:\Users\tex_sof_adm\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Conditions.runtimeconfig.json
+C:\Users\tex_sof_adm\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Conditions.runtimeconfig.dev.json
+C:\Users\tex_sof_adm\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Conditions.dll
+C:\Users\tex_sof_adm\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Conditions.pdb
+C:\Users\tex_sof_adm\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Conditions.csprojAssemblyReference.cache
+C:\Users\tex_sof_adm\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Conditions.AssemblyInfoInputs.cache
+C:\Users\tex_sof_adm\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Conditions.AssemblyInfo.cs
+C:\Users\tex_sof_adm\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Conditions.dll
+C:\Users\tex_sof_adm\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Conditions.pdb
