@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "R02TQSgdq4H6dWhvP8+cYUwO2DeCD7RMw/+7wPsc1T9sqwT83MPlrdB7ZeI9zU/3hKeV7Bguct0YgPyoHk0Pbw==",
+  "success": true,
+  "projectFilePath": "E:\\Flash&Study\\Programming\\PB\\Programing Basics\\VISUAL STUDIO PROJECTS\\L4\\ComplexConditions\\ComplexConditions3\\ComplexConditions3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DRAGON\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
