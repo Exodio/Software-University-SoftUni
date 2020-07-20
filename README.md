@@ -1,1 +1,4 @@
-# Full list of all of my SoftUni related homework assignments and tasks.
+# Software University
+
+Full list of all of my SoftUni related homework assignments and tasks.
+-
