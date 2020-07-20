@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex1pointOfRectangle", "ComplexOpperationsExcersise\ex1pointOfRectangle.csproj", "{6AD37B1E-2C3D-44B0-879B-A82565F289BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex2cinema", "ex2cinema\ex2cinema.csproj", "{7652D1B9-100B-449B-9026-171DCEDD60FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex3summerWear", "ex3summerWear\ex3summerWear.csproj", "{AA73393F-E7AA-4A90-BF92-5D2D1648F5C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex4newHome", "ex4newHome\ex4newHome.csproj", "{079EEF1A-6A61-4C6F-A12B-3FBF76B9DC66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex6trip", "ex6trip\ex6trip.csproj", "{AB2FDE51-DC78-42B7-BCB7-EB57DD44E4E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex7opperationsBetweenNumbers", "ex7opperationsBetweenNumbers\ex7opperationsBetweenNumbers.csproj", "{1281B02D-8580-409A-B360-5410CA7A79FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AD37B1E-2C3D-44B0-879B-A82565F289BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AD37B1E-2C3D-44B0-879B-A82565F289BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AD37B1E-2C3D-44B0-879B-A82565F289BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AD37B1E-2C3D-44B0-879B-A82565F289BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7652D1B9-100B-449B-9026-171DCEDD60FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7652D1B9-100B-449B-9026-171DCEDD60FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7652D1B9-100B-449B-9026-171DCEDD60FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7652D1B9-100B-449B-9026-171DCEDD60FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA73393F-E7AA-4A90-BF92-5D2D1648F5C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA73393F-E7AA-4A90-BF92-5D2D1648F5C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA73393F-E7AA-4A90-BF92-5D2D1648F5C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA73393F-E7AA-4A90-BF92-5D2D1648F5C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{079EEF1A-6A61-4C6F-A12B-3FBF76B9DC66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{079EEF1A-6A61-4C6F-A12B-3FBF76B9DC66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{079EEF1A-6A61-4C6F-A12B-3FBF76B9DC66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{079EEF1A-6A61-4C6F-A12B-3FBF76B9DC66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB2FDE51-DC78-42B7-BCB7-EB57DD44E4E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB2FDE51-DC78-42B7-BCB7-EB57DD44E4E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB2FDE51-DC78-42B7-BCB7-EB57DD44E4E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB2FDE51-DC78-42B7-BCB7-EB57DD44E4E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1281B02D-8580-409A-B360-5410CA7A79FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1281B02D-8580-409A-B360-5410CA7A79FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1281B02D-8580-409A-B360-5410CA7A79FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1281B02D-8580-409A-B360-5410CA7A79FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF82A61C-385E-490E-A01C-7ADCA5598D51}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+C:\Users\tex_sof_adm\source\repos\ComplexConditions\ex9onTimeForExamSecondOption\bin\Debug\netcoreapp3.1\ex9onTimeForExamSecondOption.exe
+C:\Users\tex_sof_adm\source\repos\ComplexConditions\ex9onTimeForExamSecondOption\bin\Debug\netcoreapp3.1\ex9onTimeForExamSecondOption.deps.json
+C:\Users\tex_sof_adm\source\repos\ComplexConditions\ex9onTimeForExamSecondOption\bin\Debug\netcoreapp3.1\ex9onTimeForExamSecondOption.runtimeconfig.json
+C:\Users\tex_sof_adm\source\repos\ComplexConditions\ex9onTimeForExamSecondOption\bin\Debug\netcoreapp3.1\ex9onTimeForExamSecondOption.runtimeconfig.dev.json
+C:\Users\tex_sof_adm\source\repos\ComplexConditions\ex9onTimeForExamSecondOption\bin\Debug\netcoreapp3.1\ex9onTimeForExamSecondOption.dll
+C:\Users\tex_sof_adm\source\repos\ComplexConditions\ex9onTimeForExamSecondOption\bin\Debug\netcoreapp3.1\ex9onTimeForExamSecondOption.pdb
+C:\Users\tex_sof_adm\source\repos\ComplexConditions\ex9onTimeForExamSecondOption\obj\Debug\netcoreapp3.1\ex9onTimeForExamSecondOption.csprojAssemblyReference.cache
+C:\Users\tex_sof_adm\source\repos\ComplexConditions\ex9onTimeForExamSecondOption\obj\Debug\netcoreapp3.1\ex9onTimeForExamSecondOption.AssemblyInfoInputs.cache
+C:\Users\tex_sof_adm\source\repos\ComplexConditions\ex9onTimeForExamSecondOption\obj\Debug\netcoreapp3.1\ex9onTimeForExamSecondOption.AssemblyInfo.cs
+C:\Users\tex_sof_adm\source\repos\ComplexConditions\ex9onTimeForExamSecondOption\obj\Debug\netcoreapp3.1\ex9onTimeForExamSecondOption.dll
+C:\Users\tex_sof_adm\source\repos\ComplexConditions\ex9onTimeForExamSecondOption\obj\Debug\netcoreapp3.1\ex9onTimeForExamSecondOption.pdb
