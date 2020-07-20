@@ -1,0 +1,11 @@
+C:\Users\DRAGON\Desktop\Flash&Study\Programing Basics Course\VISUAL STUDIO PROJECTS\L5\ComplexConditions\ex9tradeComissions\obj\Debug\netcoreapp3.1\ex9tradeComissions.AssemblyInfoInputs.cache
+C:\Users\DRAGON\Desktop\Flash&Study\Programing Basics Course\VISUAL STUDIO PROJECTS\L5\ComplexConditions\ex9tradeComissions\obj\Debug\netcoreapp3.1\ex9tradeComissions.AssemblyInfo.cs
+C:\Users\DRAGON\Desktop\Flash&Study\Programing Basics Course\VISUAL STUDIO PROJECTS\L5\ComplexConditions\ex9tradeComissions\bin\Debug\netcoreapp3.1\ex9tradeComissions.exe
+C:\Users\DRAGON\Desktop\Flash&Study\Programing Basics Course\VISUAL STUDIO PROJECTS\L5\ComplexConditions\ex9tradeComissions\bin\Debug\netcoreapp3.1\ex9tradeComissions.deps.json
+C:\Users\DRAGON\Desktop\Flash&Study\Programing Basics Course\VISUAL STUDIO PROJECTS\L5\ComplexConditions\ex9tradeComissions\bin\Debug\netcoreapp3.1\ex9tradeComissions.runtimeconfig.json
+C:\Users\DRAGON\Desktop\Flash&Study\Programing Basics Course\VISUAL STUDIO PROJECTS\L5\ComplexConditions\ex9tradeComissions\bin\Debug\netcoreapp3.1\ex9tradeComissions.runtimeconfig.dev.json
+C:\Users\DRAGON\Desktop\Flash&Study\Programing Basics Course\VISUAL STUDIO PROJECTS\L5\ComplexConditions\ex9tradeComissions\bin\Debug\netcoreapp3.1\ex9tradeComissions.dll
+C:\Users\DRAGON\Desktop\Flash&Study\Programing Basics Course\VISUAL STUDIO PROJECTS\L5\ComplexConditions\ex9tradeComissions\bin\Debug\netcoreapp3.1\ex9tradeComissions.pdb
+C:\Users\DRAGON\Desktop\Flash&Study\Programing Basics Course\VISUAL STUDIO PROJECTS\L5\ComplexConditions\ex9tradeComissions\obj\Debug\netcoreapp3.1\ex9tradeComissions.dll
+C:\Users\DRAGON\Desktop\Flash&Study\Programing Basics Course\VISUAL STUDIO PROJECTS\L5\ComplexConditions\ex9tradeComissions\obj\Debug\netcoreapp3.1\ex9tradeComissions.pdb
+C:\Users\DRAGON\Desktop\Flash&Study\Programing Basics Course\VISUAL STUDIO PROJECTS\L5\ComplexConditions\ex9tradeComissions\obj\Debug\netcoreapp3.1\ex9tradeComissions.csprojAssemblyReference.cache

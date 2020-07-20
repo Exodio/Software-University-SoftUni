@@ -1,0 +1,11 @@
+C:\Users\DRAGON\Desktop\Flash&Study\Programing Basics Course\VISUAL STUDIO PROJECTS\L5\ComplexConditions\ex8fruitShop\bin\Debug\netcoreapp3.1\ex8fruitShop.exe
+C:\Users\DRAGON\Desktop\Flash&Study\Programing Basics Course\VISUAL STUDIO PROJECTS\L5\ComplexConditions\ex8fruitShop\bin\Debug\netcoreapp3.1\ex8fruitShop.deps.json
+C:\Users\DRAGON\Desktop\Flash&Study\Programing Basics Course\VISUAL STUDIO PROJECTS\L5\ComplexConditions\ex8fruitShop\bin\Debug\netcoreapp3.1\ex8fruitShop.runtimeconfig.json
+C:\Users\DRAGON\Desktop\Flash&Study\Programing Basics Course\VISUAL STUDIO PROJECTS\L5\ComplexConditions\ex8fruitShop\bin\Debug\netcoreapp3.1\ex8fruitShop.runtimeconfig.dev.json
+C:\Users\DRAGON\Desktop\Flash&Study\Programing Basics Course\VISUAL STUDIO PROJECTS\L5\ComplexConditions\ex8fruitShop\bin\Debug\netcoreapp3.1\ex8fruitShop.dll
+C:\Users\DRAGON\Desktop\Flash&Study\Programing Basics Course\VISUAL STUDIO PROJECTS\L5\ComplexConditions\ex8fruitShop\bin\Debug\netcoreapp3.1\ex8fruitShop.pdb
+C:\Users\DRAGON\Desktop\Flash&Study\Programing Basics Course\VISUAL STUDIO PROJECTS\L5\ComplexConditions\ex8fruitShop\obj\Debug\netcoreapp3.1\ex8fruitShop.csprojAssemblyReference.cache
+C:\Users\DRAGON\Desktop\Flash&Study\Programing Basics Course\VISUAL STUDIO PROJECTS\L5\ComplexConditions\ex8fruitShop\obj\Debug\netcoreapp3.1\ex8fruitShop.AssemblyInfoInputs.cache
+C:\Users\DRAGON\Desktop\Flash&Study\Programing Basics Course\VISUAL STUDIO PROJECTS\L5\ComplexConditions\ex8fruitShop\obj\Debug\netcoreapp3.1\ex8fruitShop.AssemblyInfo.cs
+C:\Users\DRAGON\Desktop\Flash&Study\Programing Basics Course\VISUAL STUDIO PROJECTS\L5\ComplexConditions\ex8fruitShop\obj\Debug\netcoreapp3.1\ex8fruitShop.dll
+C:\Users\DRAGON\Desktop\Flash&Study\Programing Basics Course\VISUAL STUDIO PROJECTS\L5\ComplexConditions\ex8fruitShop\obj\Debug\netcoreapp3.1\ex8fruitShop.pdb

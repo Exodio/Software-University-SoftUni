@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HD+jZLnsFd61Q27EY0ppR8FDKxkkrIu9wzW844A6by64n7JTJdwv4f4cV5Ro38WvXSE6FfY62qN+s3yJc2c6Cg==",
+  "success": true,
+  "projectFilePath": "E:\\Flash&Study\\Programming\\PB\\Programing Basics\\VISUAL STUDIO PROJECTS\\L4\\ComplexConditions\\ex8fruitShop\\ex8fruitShop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DRAGON\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

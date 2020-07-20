@@ -1,0 +1,11 @@
+C:\Users\DRAGON\Desktop\Flash&Study\Programing Basics Course\VISUAL STUDIO PROJECTS\L5\ComplexConditions\ex7invalidNumber\bin\Debug\netcoreapp3.1\ex7invalidNumber.exe
+C:\Users\DRAGON\Desktop\Flash&Study\Programing Basics Course\VISUAL STUDIO PROJECTS\L5\ComplexConditions\ex7invalidNumber\bin\Debug\netcoreapp3.1\ex7invalidNumber.deps.json
+C:\Users\DRAGON\Desktop\Flash&Study\Programing Basics Course\VISUAL STUDIO PROJECTS\L5\ComplexConditions\ex7invalidNumber\bin\Debug\netcoreapp3.1\ex7invalidNumber.runtimeconfig.json
+C:\Users\DRAGON\Desktop\Flash&Study\Programing Basics Course\VISUAL STUDIO PROJECTS\L5\ComplexConditions\ex7invalidNumber\bin\Debug\netcoreapp3.1\ex7invalidNumber.runtimeconfig.dev.json
+C:\Users\DRAGON\Desktop\Flash&Study\Programing Basics Course\VISUAL STUDIO PROJECTS\L5\ComplexConditions\ex7invalidNumber\bin\Debug\netcoreapp3.1\ex7invalidNumber.dll
+C:\Users\DRAGON\Desktop\Flash&Study\Programing Basics Course\VISUAL STUDIO PROJECTS\L5\ComplexConditions\ex7invalidNumber\bin\Debug\netcoreapp3.1\ex7invalidNumber.pdb
+C:\Users\DRAGON\Desktop\Flash&Study\Programing Basics Course\VISUAL STUDIO PROJECTS\L5\ComplexConditions\ex7invalidNumber\obj\Debug\netcoreapp3.1\ex7invalidNumber.csprojAssemblyReference.cache
+C:\Users\DRAGON\Desktop\Flash&Study\Programing Basics Course\VISUAL STUDIO PROJECTS\L5\ComplexConditions\ex7invalidNumber\obj\Debug\netcoreapp3.1\ex7invalidNumber.AssemblyInfoInputs.cache
+C:\Users\DRAGON\Desktop\Flash&Study\Programing Basics Course\VISUAL STUDIO PROJECTS\L5\ComplexConditions\ex7invalidNumber\obj\Debug\netcoreapp3.1\ex7invalidNumber.AssemblyInfo.cs
+C:\Users\DRAGON\Desktop\Flash&Study\Programing Basics Course\VISUAL STUDIO PROJECTS\L5\ComplexConditions\ex7invalidNumber\obj\Debug\netcoreapp3.1\ex7invalidNumber.dll
+C:\Users\DRAGON\Desktop\Flash&Study\Programing Basics Course\VISUAL STUDIO PROJECTS\L5\ComplexConditions\ex7invalidNumber\obj\Debug\netcoreapp3.1\ex7invalidNumber.pdb
