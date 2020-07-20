@@ -1,0 +1,11 @@
+C:\Users\DRAGON\Desktop\Flash&Study\Programing Basics\VISUAL STUDIO PROJECTS\L7 Упражнение\nestedLoopsExcersise\nestedLoopsExcersise\ex4trainTheTrainers\bin\Debug\netcoreapp3.1\ex4trainTheTrainers.exe
+C:\Users\DRAGON\Desktop\Flash&Study\Programing Basics\VISUAL STUDIO PROJECTS\L7 Упражнение\nestedLoopsExcersise\nestedLoopsExcersise\ex4trainTheTrainers\bin\Debug\netcoreapp3.1\ex4trainTheTrainers.deps.json
+C:\Users\DRAGON\Desktop\Flash&Study\Programing Basics\VISUAL STUDIO PROJECTS\L7 Упражнение\nestedLoopsExcersise\nestedLoopsExcersise\ex4trainTheTrainers\bin\Debug\netcoreapp3.1\ex4trainTheTrainers.runtimeconfig.json
+C:\Users\DRAGON\Desktop\Flash&Study\Programing Basics\VISUAL STUDIO PROJECTS\L7 Упражнение\nestedLoopsExcersise\nestedLoopsExcersise\ex4trainTheTrainers\bin\Debug\netcoreapp3.1\ex4trainTheTrainers.runtimeconfig.dev.json
+C:\Users\DRAGON\Desktop\Flash&Study\Programing Basics\VISUAL STUDIO PROJECTS\L7 Упражнение\nestedLoopsExcersise\nestedLoopsExcersise\ex4trainTheTrainers\bin\Debug\netcoreapp3.1\ex4trainTheTrainers.dll
+C:\Users\DRAGON\Desktop\Flash&Study\Programing Basics\VISUAL STUDIO PROJECTS\L7 Упражнение\nestedLoopsExcersise\nestedLoopsExcersise\ex4trainTheTrainers\bin\Debug\netcoreapp3.1\ex4trainTheTrainers.pdb
+C:\Users\DRAGON\Desktop\Flash&Study\Programing Basics\VISUAL STUDIO PROJECTS\L7 Упражнение\nestedLoopsExcersise\nestedLoopsExcersise\ex4trainTheTrainers\obj\Debug\netcoreapp3.1\ex4trainTheTrainers.csprojAssemblyReference.cache
+C:\Users\DRAGON\Desktop\Flash&Study\Programing Basics\VISUAL STUDIO PROJECTS\L7 Упражнение\nestedLoopsExcersise\nestedLoopsExcersise\ex4trainTheTrainers\obj\Debug\netcoreapp3.1\ex4trainTheTrainers.AssemblyInfoInputs.cache
+C:\Users\DRAGON\Desktop\Flash&Study\Programing Basics\VISUAL STUDIO PROJECTS\L7 Упражнение\nestedLoopsExcersise\nestedLoopsExcersise\ex4trainTheTrainers\obj\Debug\netcoreapp3.1\ex4trainTheTrainers.AssemblyInfo.cs
+C:\Users\DRAGON\Desktop\Flash&Study\Programing Basics\VISUAL STUDIO PROJECTS\L7 Упражнение\nestedLoopsExcersise\nestedLoopsExcersise\ex4trainTheTrainers\obj\Debug\netcoreapp3.1\ex4trainTheTrainers.dll
+C:\Users\DRAGON\Desktop\Flash&Study\Programing Basics\VISUAL STUDIO PROJECTS\L7 Упражнение\nestedLoopsExcersise\nestedLoopsExcersise\ex4trainTheTrainers\obj\Debug\netcoreapp3.1\ex4trainTheTrainers.pdb
