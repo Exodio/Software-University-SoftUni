@@ -3,7 +3,7 @@
 
 
 About SoftUni
-= 
+-
 SoftUni (Software University) is a worldwide respected and award-winning educational IT institution, providing training and career support in the field of software engineering.
 
 Founded in 2013, SoftUni is rapidly becoming a market leader and today organizes hundreds of training programs, free courses and seminars, events and other educational initiatives that provide quality education to hundreds of thousands of people all over the world in the IT and Digital technologies.
