@@ -1,0 +1,11 @@
+C:\Users\tex_sof_adm\Downloads\1.CSF-IntroAndBasicSyntrax\1.CSF-IntroAndBasicSyntrax\bin\Debug\netcoreapp3.1\1.CSF-IntroAndBasicSyntrax.exe
+C:\Users\tex_sof_adm\Downloads\1.CSF-IntroAndBasicSyntrax\1.CSF-IntroAndBasicSyntrax\bin\Debug\netcoreapp3.1\1.CSF-IntroAndBasicSyntrax.deps.json
+C:\Users\tex_sof_adm\Downloads\1.CSF-IntroAndBasicSyntrax\1.CSF-IntroAndBasicSyntrax\bin\Debug\netcoreapp3.1\1.CSF-IntroAndBasicSyntrax.runtimeconfig.json
+C:\Users\tex_sof_adm\Downloads\1.CSF-IntroAndBasicSyntrax\1.CSF-IntroAndBasicSyntrax\bin\Debug\netcoreapp3.1\1.CSF-IntroAndBasicSyntrax.runtimeconfig.dev.json
+C:\Users\tex_sof_adm\Downloads\1.CSF-IntroAndBasicSyntrax\1.CSF-IntroAndBasicSyntrax\bin\Debug\netcoreapp3.1\1.CSF-IntroAndBasicSyntrax.dll
+C:\Users\tex_sof_adm\Downloads\1.CSF-IntroAndBasicSyntrax\1.CSF-IntroAndBasicSyntrax\bin\Debug\netcoreapp3.1\1.CSF-IntroAndBasicSyntrax.pdb
+C:\Users\tex_sof_adm\Downloads\1.CSF-IntroAndBasicSyntrax\1.CSF-IntroAndBasicSyntrax\obj\Debug\netcoreapp3.1\1.CSF-IntroAndBasicSyntrax.csprojAssemblyReference.cache
+C:\Users\tex_sof_adm\Downloads\1.CSF-IntroAndBasicSyntrax\1.CSF-IntroAndBasicSyntrax\obj\Debug\netcoreapp3.1\1.CSF-IntroAndBasicSyntrax.AssemblyInfoInputs.cache
+C:\Users\tex_sof_adm\Downloads\1.CSF-IntroAndBasicSyntrax\1.CSF-IntroAndBasicSyntrax\obj\Debug\netcoreapp3.1\1.CSF-IntroAndBasicSyntrax.AssemblyInfo.cs
+C:\Users\tex_sof_adm\Downloads\1.CSF-IntroAndBasicSyntrax\1.CSF-IntroAndBasicSyntrax\obj\Debug\netcoreapp3.1\1.CSF-IntroAndBasicSyntrax.dll
+C:\Users\tex_sof_adm\Downloads\1.CSF-IntroAndBasicSyntrax\1.CSF-IntroAndBasicSyntrax\obj\Debug\netcoreapp3.1\1.CSF-IntroAndBasicSyntrax.pdb
