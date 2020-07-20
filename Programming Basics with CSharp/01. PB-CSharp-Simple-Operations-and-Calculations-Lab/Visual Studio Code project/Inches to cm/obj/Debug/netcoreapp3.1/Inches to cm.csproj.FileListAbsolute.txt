@@ -1,0 +1,11 @@
+I:\Programing Basics Course\PROJECTS\D2\Greeting\Inches to cm\bin\Debug\netcoreapp3.1\Inches to cm.exe
+I:\Programing Basics Course\PROJECTS\D2\Greeting\Inches to cm\bin\Debug\netcoreapp3.1\Inches to cm.deps.json
+I:\Programing Basics Course\PROJECTS\D2\Greeting\Inches to cm\bin\Debug\netcoreapp3.1\Inches to cm.runtimeconfig.json
+I:\Programing Basics Course\PROJECTS\D2\Greeting\Inches to cm\bin\Debug\netcoreapp3.1\Inches to cm.runtimeconfig.dev.json
+I:\Programing Basics Course\PROJECTS\D2\Greeting\Inches to cm\bin\Debug\netcoreapp3.1\Inches to cm.dll
+I:\Programing Basics Course\PROJECTS\D2\Greeting\Inches to cm\bin\Debug\netcoreapp3.1\Inches to cm.pdb
+I:\Programing Basics Course\PROJECTS\D2\Greeting\Inches to cm\obj\Debug\netcoreapp3.1\Inches to cm.csprojAssemblyReference.cache
+I:\Programing Basics Course\PROJECTS\D2\Greeting\Inches to cm\obj\Debug\netcoreapp3.1\Inches to cm.AssemblyInfoInputs.cache
+I:\Programing Basics Course\PROJECTS\D2\Greeting\Inches to cm\obj\Debug\netcoreapp3.1\Inches to cm.AssemblyInfo.cs
+I:\Programing Basics Course\PROJECTS\D2\Greeting\Inches to cm\obj\Debug\netcoreapp3.1\Inches to cm.dll
+I:\Programing Basics Course\PROJECTS\D2\Greeting\Inches to cm\obj\Debug\netcoreapp3.1\Inches to cm.pdb

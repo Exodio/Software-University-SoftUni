@@ -1,0 +1,11 @@
+I:\Programing Basics Course\PROJECTS\D2\Greeting\SquareArea\bin\Debug\netcoreapp3.1\SquareArea.exe
+I:\Programing Basics Course\PROJECTS\D2\Greeting\SquareArea\bin\Debug\netcoreapp3.1\SquareArea.deps.json
+I:\Programing Basics Course\PROJECTS\D2\Greeting\SquareArea\bin\Debug\netcoreapp3.1\SquareArea.runtimeconfig.json
+I:\Programing Basics Course\PROJECTS\D2\Greeting\SquareArea\bin\Debug\netcoreapp3.1\SquareArea.runtimeconfig.dev.json
+I:\Programing Basics Course\PROJECTS\D2\Greeting\SquareArea\bin\Debug\netcoreapp3.1\SquareArea.dll
+I:\Programing Basics Course\PROJECTS\D2\Greeting\SquareArea\bin\Debug\netcoreapp3.1\SquareArea.pdb
+I:\Programing Basics Course\PROJECTS\D2\Greeting\SquareArea\obj\Debug\netcoreapp3.1\SquareArea.csprojAssemblyReference.cache
+I:\Programing Basics Course\PROJECTS\D2\Greeting\SquareArea\obj\Debug\netcoreapp3.1\SquareArea.AssemblyInfoInputs.cache
+I:\Programing Basics Course\PROJECTS\D2\Greeting\SquareArea\obj\Debug\netcoreapp3.1\SquareArea.AssemblyInfo.cs
+I:\Programing Basics Course\PROJECTS\D2\Greeting\SquareArea\obj\Debug\netcoreapp3.1\SquareArea.dll
+I:\Programing Basics Course\PROJECTS\D2\Greeting\SquareArea\obj\Debug\netcoreapp3.1\SquareArea.pdb
