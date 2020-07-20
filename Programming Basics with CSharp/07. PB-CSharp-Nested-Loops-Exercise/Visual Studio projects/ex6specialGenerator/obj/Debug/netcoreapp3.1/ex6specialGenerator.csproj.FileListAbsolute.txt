@@ -1,0 +1,11 @@
+C:\Users\DRAGON\Desktop\Flash&Study\Programing Basics\VISUAL STUDIO PROJECTS\L7 Упражнение\nestedLoopsExcersise\nestedLoopsExcersise\ex6specialGenerator\bin\Debug\netcoreapp3.1\ex6specialGenerator.exe
+C:\Users\DRAGON\Desktop\Flash&Study\Programing Basics\VISUAL STUDIO PROJECTS\L7 Упражнение\nestedLoopsExcersise\nestedLoopsExcersise\ex6specialGenerator\bin\Debug\netcoreapp3.1\ex6specialGenerator.deps.json
+C:\Users\DRAGON\Desktop\Flash&Study\Programing Basics\VISUAL STUDIO PROJECTS\L7 Упражнение\nestedLoopsExcersise\nestedLoopsExcersise\ex6specialGenerator\bin\Debug\netcoreapp3.1\ex6specialGenerator.runtimeconfig.json
+C:\Users\DRAGON\Desktop\Flash&Study\Programing Basics\VISUAL STUDIO PROJECTS\L7 Упражнение\nestedLoopsExcersise\nestedLoopsExcersise\ex6specialGenerator\bin\Debug\netcoreapp3.1\ex6specialGenerator.runtimeconfig.dev.json
+C:\Users\DRAGON\Desktop\Flash&Study\Programing Basics\VISUAL STUDIO PROJECTS\L7 Упражнение\nestedLoopsExcersise\nestedLoopsExcersise\ex6specialGenerator\bin\Debug\netcoreapp3.1\ex6specialGenerator.dll
+C:\Users\DRAGON\Desktop\Flash&Study\Programing Basics\VISUAL STUDIO PROJECTS\L7 Упражнение\nestedLoopsExcersise\nestedLoopsExcersise\ex6specialGenerator\bin\Debug\netcoreapp3.1\ex6specialGenerator.pdb
+C:\Users\DRAGON\Desktop\Flash&Study\Programing Basics\VISUAL STUDIO PROJECTS\L7 Упражнение\nestedLoopsExcersise\nestedLoopsExcersise\ex6specialGenerator\obj\Debug\netcoreapp3.1\ex6specialGenerator.csprojAssemblyReference.cache
+C:\Users\DRAGON\Desktop\Flash&Study\Programing Basics\VISUAL STUDIO PROJECTS\L7 Упражнение\nestedLoopsExcersise\nestedLoopsExcersise\ex6specialGenerator\obj\Debug\netcoreapp3.1\ex6specialGenerator.AssemblyInfoInputs.cache
+C:\Users\DRAGON\Desktop\Flash&Study\Programing Basics\VISUAL STUDIO PROJECTS\L7 Упражнение\nestedLoopsExcersise\nestedLoopsExcersise\ex6specialGenerator\obj\Debug\netcoreapp3.1\ex6specialGenerator.AssemblyInfo.cs
+C:\Users\DRAGON\Desktop\Flash&Study\Programing Basics\VISUAL STUDIO PROJECTS\L7 Упражнение\nestedLoopsExcersise\nestedLoopsExcersise\ex6specialGenerator\obj\Debug\netcoreapp3.1\ex6specialGenerator.dll
+C:\Users\DRAGON\Desktop\Flash&Study\Programing Basics\VISUAL STUDIO PROJECTS\L7 Упражнение\nestedLoopsExcersise\nestedLoopsExcersise\ex6specialGenerator\obj\Debug\netcoreapp3.1\ex6specialGenerator.pdb
