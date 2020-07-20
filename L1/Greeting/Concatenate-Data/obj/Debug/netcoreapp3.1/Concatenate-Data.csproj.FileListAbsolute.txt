@@ -1,0 +1,11 @@
+I:\Programing Basics Course\PROJECTS\D2\Greeting\Concatenate-Data\bin\Debug\netcoreapp3.1\Concatenate-Data.exe
+I:\Programing Basics Course\PROJECTS\D2\Greeting\Concatenate-Data\bin\Debug\netcoreapp3.1\Concatenate-Data.deps.json
+I:\Programing Basics Course\PROJECTS\D2\Greeting\Concatenate-Data\bin\Debug\netcoreapp3.1\Concatenate-Data.runtimeconfig.json
+I:\Programing Basics Course\PROJECTS\D2\Greeting\Concatenate-Data\bin\Debug\netcoreapp3.1\Concatenate-Data.runtimeconfig.dev.json
+I:\Programing Basics Course\PROJECTS\D2\Greeting\Concatenate-Data\bin\Debug\netcoreapp3.1\Concatenate-Data.dll
+I:\Programing Basics Course\PROJECTS\D2\Greeting\Concatenate-Data\bin\Debug\netcoreapp3.1\Concatenate-Data.pdb
+I:\Programing Basics Course\PROJECTS\D2\Greeting\Concatenate-Data\obj\Debug\netcoreapp3.1\Concatenate-Data.csprojAssemblyReference.cache
+I:\Programing Basics Course\PROJECTS\D2\Greeting\Concatenate-Data\obj\Debug\netcoreapp3.1\Concatenate-Data.AssemblyInfoInputs.cache
+I:\Programing Basics Course\PROJECTS\D2\Greeting\Concatenate-Data\obj\Debug\netcoreapp3.1\Concatenate-Data.AssemblyInfo.cs
+I:\Programing Basics Course\PROJECTS\D2\Greeting\Concatenate-Data\obj\Debug\netcoreapp3.1\Concatenate-Data.dll
+I:\Programing Basics Course\PROJECTS\D2\Greeting\Concatenate-Data\obj\Debug\netcoreapp3.1\Concatenate-Data.pdb
