@@ -1,0 +1,11 @@
+C:\Users\tex_sof_adm\Downloads\nestedLoops\ex1clock\bin\Debug\netcoreapp3.1\ex1clock.exe
+C:\Users\tex_sof_adm\Downloads\nestedLoops\ex1clock\bin\Debug\netcoreapp3.1\ex1clock.deps.json
+C:\Users\tex_sof_adm\Downloads\nestedLoops\ex1clock\bin\Debug\netcoreapp3.1\ex1clock.runtimeconfig.json
+C:\Users\tex_sof_adm\Downloads\nestedLoops\ex1clock\bin\Debug\netcoreapp3.1\ex1clock.runtimeconfig.dev.json
+C:\Users\tex_sof_adm\Downloads\nestedLoops\ex1clock\bin\Debug\netcoreapp3.1\ex1clock.dll
+C:\Users\tex_sof_adm\Downloads\nestedLoops\ex1clock\bin\Debug\netcoreapp3.1\ex1clock.pdb
+C:\Users\tex_sof_adm\Downloads\nestedLoops\ex1clock\obj\Debug\netcoreapp3.1\ex1clock.csprojAssemblyReference.cache
+C:\Users\tex_sof_adm\Downloads\nestedLoops\ex1clock\obj\Debug\netcoreapp3.1\ex1clock.AssemblyInfoInputs.cache
+C:\Users\tex_sof_adm\Downloads\nestedLoops\ex1clock\obj\Debug\netcoreapp3.1\ex1clock.AssemblyInfo.cs
+C:\Users\tex_sof_adm\Downloads\nestedLoops\ex1clock\obj\Debug\netcoreapp3.1\ex1clock.dll
+C:\Users\tex_sof_adm\Downloads\nestedLoops\ex1clock\obj\Debug\netcoreapp3.1\ex1clock.pdb

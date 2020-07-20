@@ -1,0 +1,11 @@
+C:\Users\tex_sof_adm\Downloads\nestedLoops\ex2multiplicationTable\bin\Debug\netcoreapp3.1\ex2multiplicationTable.exe
+C:\Users\tex_sof_adm\Downloads\nestedLoops\ex2multiplicationTable\bin\Debug\netcoreapp3.1\ex2multiplicationTable.deps.json
+C:\Users\tex_sof_adm\Downloads\nestedLoops\ex2multiplicationTable\bin\Debug\netcoreapp3.1\ex2multiplicationTable.runtimeconfig.json
+C:\Users\tex_sof_adm\Downloads\nestedLoops\ex2multiplicationTable\bin\Debug\netcoreapp3.1\ex2multiplicationTable.runtimeconfig.dev.json
+C:\Users\tex_sof_adm\Downloads\nestedLoops\ex2multiplicationTable\bin\Debug\netcoreapp3.1\ex2multiplicationTable.dll
+C:\Users\tex_sof_adm\Downloads\nestedLoops\ex2multiplicationTable\bin\Debug\netcoreapp3.1\ex2multiplicationTable.pdb
+C:\Users\tex_sof_adm\Downloads\nestedLoops\ex2multiplicationTable\obj\Debug\netcoreapp3.1\ex2multiplicationTable.AssemblyInfoInputs.cache
+C:\Users\tex_sof_adm\Downloads\nestedLoops\ex2multiplicationTable\obj\Debug\netcoreapp3.1\ex2multiplicationTable.AssemblyInfo.cs
+C:\Users\tex_sof_adm\Downloads\nestedLoops\ex2multiplicationTable\obj\Debug\netcoreapp3.1\ex2multiplicationTable.dll
+C:\Users\tex_sof_adm\Downloads\nestedLoops\ex2multiplicationTable\obj\Debug\netcoreapp3.1\ex2multiplicationTable.pdb
+C:\Users\tex_sof_adm\Downloads\nestedLoops\ex2multiplicationTable\obj\Debug\netcoreapp3.1\ex2multiplicationTable.csprojAssemblyReference.cache

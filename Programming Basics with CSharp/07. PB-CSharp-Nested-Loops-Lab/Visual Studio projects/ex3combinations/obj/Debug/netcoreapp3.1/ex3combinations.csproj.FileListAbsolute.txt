@@ -1,0 +1,11 @@
+C:\Users\tex_sof_adm\Downloads\nestedLoops\ex3combinations\bin\Debug\netcoreapp3.1\ex3combinations.exe
+C:\Users\tex_sof_adm\Downloads\nestedLoops\ex3combinations\bin\Debug\netcoreapp3.1\ex3combinations.deps.json
+C:\Users\tex_sof_adm\Downloads\nestedLoops\ex3combinations\bin\Debug\netcoreapp3.1\ex3combinations.runtimeconfig.json
+C:\Users\tex_sof_adm\Downloads\nestedLoops\ex3combinations\bin\Debug\netcoreapp3.1\ex3combinations.runtimeconfig.dev.json
+C:\Users\tex_sof_adm\Downloads\nestedLoops\ex3combinations\bin\Debug\netcoreapp3.1\ex3combinations.dll
+C:\Users\tex_sof_adm\Downloads\nestedLoops\ex3combinations\bin\Debug\netcoreapp3.1\ex3combinations.pdb
+C:\Users\tex_sof_adm\Downloads\nestedLoops\ex3combinations\obj\Debug\netcoreapp3.1\ex3combinations.csprojAssemblyReference.cache
+C:\Users\tex_sof_adm\Downloads\nestedLoops\ex3combinations\obj\Debug\netcoreapp3.1\ex3combinations.AssemblyInfoInputs.cache
+C:\Users\tex_sof_adm\Downloads\nestedLoops\ex3combinations\obj\Debug\netcoreapp3.1\ex3combinations.AssemblyInfo.cs
+C:\Users\tex_sof_adm\Downloads\nestedLoops\ex3combinations\obj\Debug\netcoreapp3.1\ex3combinations.dll
+C:\Users\tex_sof_adm\Downloads\nestedLoops\ex3combinations\obj\Debug\netcoreapp3.1\ex3combinations.pdb
