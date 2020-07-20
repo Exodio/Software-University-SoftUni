@@ -1,0 +1,11 @@
+C:\Users\tex_sof_adm\Downloads\nestedLoops\ex4sumOfTwoNumbers\bin\Debug\netcoreapp3.1\ex4sumOfTwoNumbers.exe
+C:\Users\tex_sof_adm\Downloads\nestedLoops\ex4sumOfTwoNumbers\bin\Debug\netcoreapp3.1\ex4sumOfTwoNumbers.deps.json
+C:\Users\tex_sof_adm\Downloads\nestedLoops\ex4sumOfTwoNumbers\bin\Debug\netcoreapp3.1\ex4sumOfTwoNumbers.runtimeconfig.json
+C:\Users\tex_sof_adm\Downloads\nestedLoops\ex4sumOfTwoNumbers\bin\Debug\netcoreapp3.1\ex4sumOfTwoNumbers.runtimeconfig.dev.json
+C:\Users\tex_sof_adm\Downloads\nestedLoops\ex4sumOfTwoNumbers\bin\Debug\netcoreapp3.1\ex4sumOfTwoNumbers.dll
+C:\Users\tex_sof_adm\Downloads\nestedLoops\ex4sumOfTwoNumbers\bin\Debug\netcoreapp3.1\ex4sumOfTwoNumbers.pdb
+C:\Users\tex_sof_adm\Downloads\nestedLoops\ex4sumOfTwoNumbers\obj\Debug\netcoreapp3.1\ex4sumOfTwoNumbers.csprojAssemblyReference.cache
+C:\Users\tex_sof_adm\Downloads\nestedLoops\ex4sumOfTwoNumbers\obj\Debug\netcoreapp3.1\ex4sumOfTwoNumbers.AssemblyInfoInputs.cache
+C:\Users\tex_sof_adm\Downloads\nestedLoops\ex4sumOfTwoNumbers\obj\Debug\netcoreapp3.1\ex4sumOfTwoNumbers.AssemblyInfo.cs
+C:\Users\tex_sof_adm\Downloads\nestedLoops\ex4sumOfTwoNumbers\obj\Debug\netcoreapp3.1\ex4sumOfTwoNumbers.dll
+C:\Users\tex_sof_adm\Downloads\nestedLoops\ex4sumOfTwoNumbers\obj\Debug\netcoreapp3.1\ex4sumOfTwoNumbers.pdb

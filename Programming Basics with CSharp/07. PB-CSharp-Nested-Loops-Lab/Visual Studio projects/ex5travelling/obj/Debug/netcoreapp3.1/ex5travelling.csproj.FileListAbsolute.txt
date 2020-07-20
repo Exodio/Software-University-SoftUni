@@ -1,0 +1,11 @@
+C:\Users\tex_sof_adm\Downloads\nestedLoops\ex5travelling\bin\Debug\netcoreapp3.1\ex5travelling.exe
+C:\Users\tex_sof_adm\Downloads\nestedLoops\ex5travelling\bin\Debug\netcoreapp3.1\ex5travelling.deps.json
+C:\Users\tex_sof_adm\Downloads\nestedLoops\ex5travelling\bin\Debug\netcoreapp3.1\ex5travelling.runtimeconfig.json
+C:\Users\tex_sof_adm\Downloads\nestedLoops\ex5travelling\bin\Debug\netcoreapp3.1\ex5travelling.runtimeconfig.dev.json
+C:\Users\tex_sof_adm\Downloads\nestedLoops\ex5travelling\bin\Debug\netcoreapp3.1\ex5travelling.dll
+C:\Users\tex_sof_adm\Downloads\nestedLoops\ex5travelling\bin\Debug\netcoreapp3.1\ex5travelling.pdb
+C:\Users\tex_sof_adm\Downloads\nestedLoops\ex5travelling\obj\Debug\netcoreapp3.1\ex5travelling.csprojAssemblyReference.cache
+C:\Users\tex_sof_adm\Downloads\nestedLoops\ex5travelling\obj\Debug\netcoreapp3.1\ex5travelling.AssemblyInfoInputs.cache
+C:\Users\tex_sof_adm\Downloads\nestedLoops\ex5travelling\obj\Debug\netcoreapp3.1\ex5travelling.AssemblyInfo.cs
+C:\Users\tex_sof_adm\Downloads\nestedLoops\ex5travelling\obj\Debug\netcoreapp3.1\ex5travelling.dll
+C:\Users\tex_sof_adm\Downloads\nestedLoops\ex5travelling\obj\Debug\netcoreapp3.1\ex5travelling.pdb

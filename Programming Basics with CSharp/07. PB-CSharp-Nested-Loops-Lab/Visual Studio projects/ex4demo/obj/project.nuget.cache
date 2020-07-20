@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "z2tXscj4UdYiTGWh2HbhSapYSrcLm0e2DGF0KLMopJAcxAcBcA7vSWhot2hD1cRjExy+YR1oop8BwP14bEbHZA==",
+  "success": true,
+  "projectFilePath": "E:\\Flash&Study\\Programming\\PB\\Programing Basics\\VISUAL STUDIO PROJECTS\\L7\\nestedLoops\\ex4demo\\ex4demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DRAGON\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
