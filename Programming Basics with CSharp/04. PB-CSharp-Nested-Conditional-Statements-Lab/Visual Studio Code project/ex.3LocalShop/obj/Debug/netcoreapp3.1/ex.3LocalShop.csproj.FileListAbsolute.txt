@@ -1,0 +1,11 @@
+C:\Users\DRAGON\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\L5\ComplexConditions\ex.3LocalShop\bin\Debug\netcoreapp3.1\ex.3LocalShop.exe
+C:\Users\DRAGON\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\L5\ComplexConditions\ex.3LocalShop\bin\Debug\netcoreapp3.1\ex.3LocalShop.deps.json
+C:\Users\DRAGON\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\L5\ComplexConditions\ex.3LocalShop\bin\Debug\netcoreapp3.1\ex.3LocalShop.runtimeconfig.json
+C:\Users\DRAGON\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\L5\ComplexConditions\ex.3LocalShop\bin\Debug\netcoreapp3.1\ex.3LocalShop.runtimeconfig.dev.json
+C:\Users\DRAGON\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\L5\ComplexConditions\ex.3LocalShop\bin\Debug\netcoreapp3.1\ex.3LocalShop.dll
+C:\Users\DRAGON\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\L5\ComplexConditions\ex.3LocalShop\bin\Debug\netcoreapp3.1\ex.3LocalShop.pdb
+C:\Users\DRAGON\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\L5\ComplexConditions\ex.3LocalShop\obj\Debug\netcoreapp3.1\ex.3LocalShop.csprojAssemblyReference.cache
+C:\Users\DRAGON\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\L5\ComplexConditions\ex.3LocalShop\obj\Debug\netcoreapp3.1\ex.3LocalShop.AssemblyInfoInputs.cache
+C:\Users\DRAGON\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\L5\ComplexConditions\ex.3LocalShop\obj\Debug\netcoreapp3.1\ex.3LocalShop.AssemblyInfo.cs
+C:\Users\DRAGON\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\L5\ComplexConditions\ex.3LocalShop\obj\Debug\netcoreapp3.1\ex.3LocalShop.dll
+C:\Users\DRAGON\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\L5\ComplexConditions\ex.3LocalShop\obj\Debug\netcoreapp3.1\ex.3LocalShop.pdb

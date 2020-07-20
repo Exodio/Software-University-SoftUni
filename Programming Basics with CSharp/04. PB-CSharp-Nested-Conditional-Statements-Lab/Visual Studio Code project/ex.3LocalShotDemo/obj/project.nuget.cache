@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TEfTJPe5QMEQMkOjAwZu0dPEaB9jvtM9atAburf+z4zT6czntero4j4AZvfIgM9zhb8gbeOI/p9RzrN+6esjNg==",
+  "success": true,
+  "projectFilePath": "E:\\Flash&Study\\Programming\\PB\\Programing Basics\\VISUAL STUDIO PROJECTS\\L4\\ComplexConditions\\ex.3LocalShotDemo\\ex3localShotDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DRAGON\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

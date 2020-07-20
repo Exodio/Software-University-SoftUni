@@ -1,0 +1,11 @@
+C:\Users\DRAGON\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\L5\ComplexConditions\ex.3LocalShotDemo\bin\Debug\netcoreapp3.1\ex.3LocalShotDemo.exe
+C:\Users\DRAGON\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\L5\ComplexConditions\ex.3LocalShotDemo\bin\Debug\netcoreapp3.1\ex.3LocalShotDemo.deps.json
+C:\Users\DRAGON\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\L5\ComplexConditions\ex.3LocalShotDemo\bin\Debug\netcoreapp3.1\ex.3LocalShotDemo.runtimeconfig.json
+C:\Users\DRAGON\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\L5\ComplexConditions\ex.3LocalShotDemo\bin\Debug\netcoreapp3.1\ex.3LocalShotDemo.runtimeconfig.dev.json
+C:\Users\DRAGON\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\L5\ComplexConditions\ex.3LocalShotDemo\bin\Debug\netcoreapp3.1\ex.3LocalShotDemo.dll
+C:\Users\DRAGON\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\L5\ComplexConditions\ex.3LocalShotDemo\bin\Debug\netcoreapp3.1\ex.3LocalShotDemo.pdb
+C:\Users\DRAGON\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\L5\ComplexConditions\ex.3LocalShotDemo\obj\Debug\netcoreapp3.1\ex.3LocalShotDemo.csprojAssemblyReference.cache
+C:\Users\DRAGON\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\L5\ComplexConditions\ex.3LocalShotDemo\obj\Debug\netcoreapp3.1\ex.3LocalShotDemo.AssemblyInfoInputs.cache
+C:\Users\DRAGON\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\L5\ComplexConditions\ex.3LocalShotDemo\obj\Debug\netcoreapp3.1\ex.3LocalShotDemo.AssemblyInfo.cs
+C:\Users\DRAGON\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\L5\ComplexConditions\ex.3LocalShotDemo\obj\Debug\netcoreapp3.1\ex.3LocalShotDemo.dll
+C:\Users\DRAGON\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\L5\ComplexConditions\ex.3LocalShotDemo\obj\Debug\netcoreapp3.1\ex.3LocalShotDemo.pdb
