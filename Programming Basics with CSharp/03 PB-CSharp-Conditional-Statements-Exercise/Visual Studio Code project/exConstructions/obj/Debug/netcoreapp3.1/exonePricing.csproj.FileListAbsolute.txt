@@ -1,0 +1,11 @@
+C:\Users\Adrian\Desktop\Flash\Programing Basics Course\L5 - Проверки упражнение\uslovniKonstrukciiUpr\uslovniKonstrukciiUpr\bin\Debug\netcoreapp3.1\exonePricing.exe
+C:\Users\Adrian\Desktop\Flash\Programing Basics Course\L5 - Проверки упражнение\uslovniKonstrukciiUpr\uslovniKonstrukciiUpr\bin\Debug\netcoreapp3.1\exonePricing.deps.json
+C:\Users\Adrian\Desktop\Flash\Programing Basics Course\L5 - Проверки упражнение\uslovniKonstrukciiUpr\uslovniKonstrukciiUpr\bin\Debug\netcoreapp3.1\exonePricing.runtimeconfig.json
+C:\Users\Adrian\Desktop\Flash\Programing Basics Course\L5 - Проверки упражнение\uslovniKonstrukciiUpr\uslovniKonstrukciiUpr\bin\Debug\netcoreapp3.1\exonePricing.runtimeconfig.dev.json
+C:\Users\Adrian\Desktop\Flash\Programing Basics Course\L5 - Проверки упражнение\uslovniKonstrukciiUpr\uslovniKonstrukciiUpr\bin\Debug\netcoreapp3.1\exonePricing.dll
+C:\Users\Adrian\Desktop\Flash\Programing Basics Course\L5 - Проверки упражнение\uslovniKonstrukciiUpr\uslovniKonstrukciiUpr\bin\Debug\netcoreapp3.1\exonePricing.pdb
+C:\Users\Adrian\Desktop\Flash\Programing Basics Course\L5 - Проверки упражнение\uslovniKonstrukciiUpr\uslovniKonstrukciiUpr\obj\Debug\netcoreapp3.1\exonePricing.csprojAssemblyReference.cache
+C:\Users\Adrian\Desktop\Flash\Programing Basics Course\L5 - Проверки упражнение\uslovniKonstrukciiUpr\uslovniKonstrukciiUpr\obj\Debug\netcoreapp3.1\exonePricing.AssemblyInfoInputs.cache
+C:\Users\Adrian\Desktop\Flash\Programing Basics Course\L5 - Проверки упражнение\uslovniKonstrukciiUpr\uslovniKonstrukciiUpr\obj\Debug\netcoreapp3.1\exonePricing.AssemblyInfo.cs
+C:\Users\Adrian\Desktop\Flash\Programing Basics Course\L5 - Проверки упражнение\uslovniKonstrukciiUpr\uslovniKonstrukciiUpr\obj\Debug\netcoreapp3.1\exonePricing.dll
+C:\Users\Adrian\Desktop\Flash\Programing Basics Course\L5 - Проверки упражнение\uslovniKonstrukciiUpr\uslovniKonstrukciiUpr\obj\Debug\netcoreapp3.1\exonePricing.pdb

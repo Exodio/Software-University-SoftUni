@@ -1,0 +1,11 @@
+C:\Users\Adrian\Desktop\Flash\Programing Basics Course\L5 - Проверки упражнение\uslovniKonstrukciiUpr\exFourConvertorForMeasurements\bin\Debug\netcoreapp3.1\exFourMetricConvertor.exe
+C:\Users\Adrian\Desktop\Flash\Programing Basics Course\L5 - Проверки упражнение\uslovniKonstrukciiUpr\exFourConvertorForMeasurements\bin\Debug\netcoreapp3.1\exFourMetricConvertor.deps.json
+C:\Users\Adrian\Desktop\Flash\Programing Basics Course\L5 - Проверки упражнение\uslovniKonstrukciiUpr\exFourConvertorForMeasurements\bin\Debug\netcoreapp3.1\exFourMetricConvertor.runtimeconfig.json
+C:\Users\Adrian\Desktop\Flash\Programing Basics Course\L5 - Проверки упражнение\uslovniKonstrukciiUpr\exFourConvertorForMeasurements\bin\Debug\netcoreapp3.1\exFourMetricConvertor.runtimeconfig.dev.json
+C:\Users\Adrian\Desktop\Flash\Programing Basics Course\L5 - Проверки упражнение\uslovniKonstrukciiUpr\exFourConvertorForMeasurements\bin\Debug\netcoreapp3.1\exFourMetricConvertor.dll
+C:\Users\Adrian\Desktop\Flash\Programing Basics Course\L5 - Проверки упражнение\uslovniKonstrukciiUpr\exFourConvertorForMeasurements\bin\Debug\netcoreapp3.1\exFourMetricConvertor.pdb
+C:\Users\Adrian\Desktop\Flash\Programing Basics Course\L5 - Проверки упражнение\uslovniKonstrukciiUpr\exFourConvertorForMeasurements\obj\Debug\netcoreapp3.1\exFourMetricConvertor.csprojAssemblyReference.cache
+C:\Users\Adrian\Desktop\Flash\Programing Basics Course\L5 - Проверки упражнение\uslovniKonstrukciiUpr\exFourConvertorForMeasurements\obj\Debug\netcoreapp3.1\exFourMetricConvertor.AssemblyInfoInputs.cache
+C:\Users\Adrian\Desktop\Flash\Programing Basics Course\L5 - Проверки упражнение\uslovniKonstrukciiUpr\exFourConvertorForMeasurements\obj\Debug\netcoreapp3.1\exFourMetricConvertor.AssemblyInfo.cs
+C:\Users\Adrian\Desktop\Flash\Programing Basics Course\L5 - Проверки упражнение\uslovniKonstrukciiUpr\exFourConvertorForMeasurements\obj\Debug\netcoreapp3.1\exFourMetricConvertor.dll
+C:\Users\Adrian\Desktop\Flash\Programing Basics Course\L5 - Проверки упражнение\uslovniKonstrukciiUpr\exFourConvertorForMeasurements\obj\Debug\netcoreapp3.1\exFourMetricConvertor.pdb
