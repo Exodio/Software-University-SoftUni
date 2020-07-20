@@ -1,0 +1,11 @@
+C:\Users\tex_sof_adm\source\repos\ComplexConditions\ex5fishingBoat\bin\Debug\netcoreapp3.1\ex5fishingBoat.exe
+C:\Users\tex_sof_adm\source\repos\ComplexConditions\ex5fishingBoat\bin\Debug\netcoreapp3.1\ex5fishingBoat.deps.json
+C:\Users\tex_sof_adm\source\repos\ComplexConditions\ex5fishingBoat\bin\Debug\netcoreapp3.1\ex5fishingBoat.runtimeconfig.json
+C:\Users\tex_sof_adm\source\repos\ComplexConditions\ex5fishingBoat\bin\Debug\netcoreapp3.1\ex5fishingBoat.runtimeconfig.dev.json
+C:\Users\tex_sof_adm\source\repos\ComplexConditions\ex5fishingBoat\bin\Debug\netcoreapp3.1\ex5fishingBoat.dll
+C:\Users\tex_sof_adm\source\repos\ComplexConditions\ex5fishingBoat\bin\Debug\netcoreapp3.1\ex5fishingBoat.pdb
+C:\Users\tex_sof_adm\source\repos\ComplexConditions\ex5fishingBoat\obj\Debug\netcoreapp3.1\ex5fishingBoat.csprojAssemblyReference.cache
+C:\Users\tex_sof_adm\source\repos\ComplexConditions\ex5fishingBoat\obj\Debug\netcoreapp3.1\ex5fishingBoat.AssemblyInfoInputs.cache
+C:\Users\tex_sof_adm\source\repos\ComplexConditions\ex5fishingBoat\obj\Debug\netcoreapp3.1\ex5fishingBoat.AssemblyInfo.cs
+C:\Users\tex_sof_adm\source\repos\ComplexConditions\ex5fishingBoat\obj\Debug\netcoreapp3.1\ex5fishingBoat.dll
+C:\Users\tex_sof_adm\source\repos\ComplexConditions\ex5fishingBoat\obj\Debug\netcoreapp3.1\ex5fishingBoat.pdb

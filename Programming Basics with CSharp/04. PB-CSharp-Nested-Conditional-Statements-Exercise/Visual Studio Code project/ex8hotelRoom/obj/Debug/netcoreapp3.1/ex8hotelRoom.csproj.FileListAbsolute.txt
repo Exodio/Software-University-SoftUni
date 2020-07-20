@@ -1,0 +1,11 @@
+C:\Users\tex_sof_adm\source\repos\ComplexConditions\ex8hotelRoom\bin\Debug\netcoreapp3.1\ex8hotelRoom.exe
+C:\Users\tex_sof_adm\source\repos\ComplexConditions\ex8hotelRoom\bin\Debug\netcoreapp3.1\ex8hotelRoom.deps.json
+C:\Users\tex_sof_adm\source\repos\ComplexConditions\ex8hotelRoom\bin\Debug\netcoreapp3.1\ex8hotelRoom.runtimeconfig.json
+C:\Users\tex_sof_adm\source\repos\ComplexConditions\ex8hotelRoom\bin\Debug\netcoreapp3.1\ex8hotelRoom.runtimeconfig.dev.json
+C:\Users\tex_sof_adm\source\repos\ComplexConditions\ex8hotelRoom\bin\Debug\netcoreapp3.1\ex8hotelRoom.dll
+C:\Users\tex_sof_adm\source\repos\ComplexConditions\ex8hotelRoom\bin\Debug\netcoreapp3.1\ex8hotelRoom.pdb
+C:\Users\tex_sof_adm\source\repos\ComplexConditions\ex8hotelRoom\obj\Debug\netcoreapp3.1\ex8hotelRoom.csprojAssemblyReference.cache
+C:\Users\tex_sof_adm\source\repos\ComplexConditions\ex8hotelRoom\obj\Debug\netcoreapp3.1\ex8hotelRoom.AssemblyInfoInputs.cache
+C:\Users\tex_sof_adm\source\repos\ComplexConditions\ex8hotelRoom\obj\Debug\netcoreapp3.1\ex8hotelRoom.AssemblyInfo.cs
+C:\Users\tex_sof_adm\source\repos\ComplexConditions\ex8hotelRoom\obj\Debug\netcoreapp3.1\ex8hotelRoom.dll
+C:\Users\tex_sof_adm\source\repos\ComplexConditions\ex8hotelRoom\obj\Debug\netcoreapp3.1\ex8hotelRoom.pdb
