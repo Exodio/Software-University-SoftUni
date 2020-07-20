@@ -15,3 +15,8 @@ SKILLS YOU WILL ACQUIRE
 - Working with logical checks (if-else)
 - Working with cycles (for)
 - Working with more complex loops (nested for loops and while)
+
+
+CERTIFICATE
+-
+![Programming Basics with CSharp - January 2020](https://github.com/Exodio/Software-University-SoftUni/blob/master/Certifications/Programming%20Basics%20with%20CSharp%20-%20January%202020.jpeg)
