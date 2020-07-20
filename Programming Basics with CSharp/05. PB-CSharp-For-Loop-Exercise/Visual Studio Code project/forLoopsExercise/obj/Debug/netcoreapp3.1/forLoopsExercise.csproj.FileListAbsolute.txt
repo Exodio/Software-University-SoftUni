@@ -1,0 +1,11 @@
+C:\Users\DRAGON\Desktop\Flash&Study\Programing Basics\L5 - Цикли - упражнение\forLoopsExercise\forLoopsExercise\bin\Debug\netcoreapp3.1\forLoopsExercise.exe
+C:\Users\DRAGON\Desktop\Flash&Study\Programing Basics\L5 - Цикли - упражнение\forLoopsExercise\forLoopsExercise\bin\Debug\netcoreapp3.1\forLoopsExercise.deps.json
+C:\Users\DRAGON\Desktop\Flash&Study\Programing Basics\L5 - Цикли - упражнение\forLoopsExercise\forLoopsExercise\bin\Debug\netcoreapp3.1\forLoopsExercise.runtimeconfig.json
+C:\Users\DRAGON\Desktop\Flash&Study\Programing Basics\L5 - Цикли - упражнение\forLoopsExercise\forLoopsExercise\bin\Debug\netcoreapp3.1\forLoopsExercise.runtimeconfig.dev.json
+C:\Users\DRAGON\Desktop\Flash&Study\Programing Basics\L5 - Цикли - упражнение\forLoopsExercise\forLoopsExercise\bin\Debug\netcoreapp3.1\forLoopsExercise.dll
+C:\Users\DRAGON\Desktop\Flash&Study\Programing Basics\L5 - Цикли - упражнение\forLoopsExercise\forLoopsExercise\bin\Debug\netcoreapp3.1\forLoopsExercise.pdb
+C:\Users\DRAGON\Desktop\Flash&Study\Programing Basics\L5 - Цикли - упражнение\forLoopsExercise\forLoopsExercise\obj\Debug\netcoreapp3.1\forLoopsExercise.csprojAssemblyReference.cache
+C:\Users\DRAGON\Desktop\Flash&Study\Programing Basics\L5 - Цикли - упражнение\forLoopsExercise\forLoopsExercise\obj\Debug\netcoreapp3.1\forLoopsExercise.AssemblyInfoInputs.cache
+C:\Users\DRAGON\Desktop\Flash&Study\Programing Basics\L5 - Цикли - упражнение\forLoopsExercise\forLoopsExercise\obj\Debug\netcoreapp3.1\forLoopsExercise.AssemblyInfo.cs
+C:\Users\DRAGON\Desktop\Flash&Study\Programing Basics\L5 - Цикли - упражнение\forLoopsExercise\forLoopsExercise\obj\Debug\netcoreapp3.1\forLoopsExercise.dll
+C:\Users\DRAGON\Desktop\Flash&Study\Programing Basics\L5 - Цикли - упражнение\forLoopsExercise\forLoopsExercise\obj\Debug\netcoreapp3.1\forLoopsExercise.pdb
