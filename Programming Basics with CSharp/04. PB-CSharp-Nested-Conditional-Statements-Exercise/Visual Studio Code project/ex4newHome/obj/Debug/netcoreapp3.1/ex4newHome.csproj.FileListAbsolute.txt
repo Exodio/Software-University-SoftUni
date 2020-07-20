@@ -1,0 +1,11 @@
+C:\Users\tex_sof_adm\source\repos\ComplexConditions\ComplexConditions\bin\Debug\netcoreapp3.1\ex4newHome.exe
+C:\Users\tex_sof_adm\source\repos\ComplexConditions\ComplexConditions\bin\Debug\netcoreapp3.1\ex4newHome.deps.json
+C:\Users\tex_sof_adm\source\repos\ComplexConditions\ComplexConditions\bin\Debug\netcoreapp3.1\ex4newHome.runtimeconfig.json
+C:\Users\tex_sof_adm\source\repos\ComplexConditions\ComplexConditions\bin\Debug\netcoreapp3.1\ex4newHome.runtimeconfig.dev.json
+C:\Users\tex_sof_adm\source\repos\ComplexConditions\ComplexConditions\bin\Debug\netcoreapp3.1\ex4newHome.dll
+C:\Users\tex_sof_adm\source\repos\ComplexConditions\ComplexConditions\bin\Debug\netcoreapp3.1\ex4newHome.pdb
+C:\Users\tex_sof_adm\source\repos\ComplexConditions\ComplexConditions\obj\Debug\netcoreapp3.1\ex4newHome.csprojAssemblyReference.cache
+C:\Users\tex_sof_adm\source\repos\ComplexConditions\ComplexConditions\obj\Debug\netcoreapp3.1\ex4newHome.AssemblyInfoInputs.cache
+C:\Users\tex_sof_adm\source\repos\ComplexConditions\ComplexConditions\obj\Debug\netcoreapp3.1\ex4newHome.AssemblyInfo.cs
+C:\Users\tex_sof_adm\source\repos\ComplexConditions\ComplexConditions\obj\Debug\netcoreapp3.1\ex4newHome.dll
+C:\Users\tex_sof_adm\source\repos\ComplexConditions\ComplexConditions\obj\Debug\netcoreapp3.1\ex4newHome.pdb
