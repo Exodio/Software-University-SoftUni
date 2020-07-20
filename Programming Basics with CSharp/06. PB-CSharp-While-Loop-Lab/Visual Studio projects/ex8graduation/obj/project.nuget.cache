@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "T318HKb4KT8tnfNJR7mrRLSAzpS+gkGDx/CdALRqqXqcstoOfrjHo/ff2IIx7ok00ujqAVzJR6aGhFIDv9VIaA==",
+  "success": true,
+  "projectFilePath": "E:\\Flash&Study\\Programming\\PB\\Programing Basics\\VISUAL STUDIO PROJECTS\\L6\\whileLoops\\ex8graduation\\ex8graduation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DRAGON\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
