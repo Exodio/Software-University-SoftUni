@@ -1,0 +1,11 @@
+C:\Users\tex_sof_adm\Downloads\forLoops\ex4evenStepTo2\bin\Debug\netcoreapp3.1\ex4evenStepTo2.exe
+C:\Users\tex_sof_adm\Downloads\forLoops\ex4evenStepTo2\bin\Debug\netcoreapp3.1\ex4evenStepTo2.deps.json
+C:\Users\tex_sof_adm\Downloads\forLoops\ex4evenStepTo2\bin\Debug\netcoreapp3.1\ex4evenStepTo2.runtimeconfig.json
+C:\Users\tex_sof_adm\Downloads\forLoops\ex4evenStepTo2\bin\Debug\netcoreapp3.1\ex4evenStepTo2.runtimeconfig.dev.json
+C:\Users\tex_sof_adm\Downloads\forLoops\ex4evenStepTo2\bin\Debug\netcoreapp3.1\ex4evenStepTo2.dll
+C:\Users\tex_sof_adm\Downloads\forLoops\ex4evenStepTo2\bin\Debug\netcoreapp3.1\ex4evenStepTo2.pdb
+C:\Users\tex_sof_adm\Downloads\forLoops\ex4evenStepTo2\obj\Debug\netcoreapp3.1\ex4evenStepTo2.csprojAssemblyReference.cache
+C:\Users\tex_sof_adm\Downloads\forLoops\ex4evenStepTo2\obj\Debug\netcoreapp3.1\ex4evenStepTo2.AssemblyInfoInputs.cache
+C:\Users\tex_sof_adm\Downloads\forLoops\ex4evenStepTo2\obj\Debug\netcoreapp3.1\ex4evenStepTo2.AssemblyInfo.cs
+C:\Users\tex_sof_adm\Downloads\forLoops\ex4evenStepTo2\obj\Debug\netcoreapp3.1\ex4evenStepTo2.dll
+C:\Users\tex_sof_adm\Downloads\forLoops\ex4evenStepTo2\obj\Debug\netcoreapp3.1\ex4evenStepTo2.pdb

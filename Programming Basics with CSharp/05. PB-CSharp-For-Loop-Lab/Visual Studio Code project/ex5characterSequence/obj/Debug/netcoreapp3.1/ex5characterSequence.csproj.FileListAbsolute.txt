@@ -1,0 +1,11 @@
+C:\Users\tex_sof_adm\Downloads\forLoops\ex5characterSequence\bin\Debug\netcoreapp3.1\ex5characterSequence.exe
+C:\Users\tex_sof_adm\Downloads\forLoops\ex5characterSequence\bin\Debug\netcoreapp3.1\ex5characterSequence.deps.json
+C:\Users\tex_sof_adm\Downloads\forLoops\ex5characterSequence\bin\Debug\netcoreapp3.1\ex5characterSequence.runtimeconfig.json
+C:\Users\tex_sof_adm\Downloads\forLoops\ex5characterSequence\bin\Debug\netcoreapp3.1\ex5characterSequence.runtimeconfig.dev.json
+C:\Users\tex_sof_adm\Downloads\forLoops\ex5characterSequence\bin\Debug\netcoreapp3.1\ex5characterSequence.dll
+C:\Users\tex_sof_adm\Downloads\forLoops\ex5characterSequence\bin\Debug\netcoreapp3.1\ex5characterSequence.pdb
+C:\Users\tex_sof_adm\Downloads\forLoops\ex5characterSequence\obj\Debug\netcoreapp3.1\ex5characterSequence.csprojAssemblyReference.cache
+C:\Users\tex_sof_adm\Downloads\forLoops\ex5characterSequence\obj\Debug\netcoreapp3.1\ex5characterSequence.AssemblyInfoInputs.cache
+C:\Users\tex_sof_adm\Downloads\forLoops\ex5characterSequence\obj\Debug\netcoreapp3.1\ex5characterSequence.AssemblyInfo.cs
+C:\Users\tex_sof_adm\Downloads\forLoops\ex5characterSequence\obj\Debug\netcoreapp3.1\ex5characterSequence.dll
+C:\Users\tex_sof_adm\Downloads\forLoops\ex5characterSequence\obj\Debug\netcoreapp3.1\ex5characterSequence.pdb

@@ -1,0 +1,11 @@
+C:\Users\tex_sof_adm\Downloads\forLoops\numbersfromNto1\bin\Debug\netcoreapp3.1\ex2numbersfromNto1.exe
+C:\Users\tex_sof_adm\Downloads\forLoops\numbersfromNto1\bin\Debug\netcoreapp3.1\ex2numbersfromNto1.deps.json
+C:\Users\tex_sof_adm\Downloads\forLoops\numbersfromNto1\bin\Debug\netcoreapp3.1\ex2numbersfromNto1.runtimeconfig.json
+C:\Users\tex_sof_adm\Downloads\forLoops\numbersfromNto1\bin\Debug\netcoreapp3.1\ex2numbersfromNto1.runtimeconfig.dev.json
+C:\Users\tex_sof_adm\Downloads\forLoops\numbersfromNto1\bin\Debug\netcoreapp3.1\ex2numbersfromNto1.dll
+C:\Users\tex_sof_adm\Downloads\forLoops\numbersfromNto1\bin\Debug\netcoreapp3.1\ex2numbersfromNto1.pdb
+C:\Users\tex_sof_adm\Downloads\forLoops\numbersfromNto1\obj\Debug\netcoreapp3.1\ex2numbersfromNto1.csprojAssemblyReference.cache
+C:\Users\tex_sof_adm\Downloads\forLoops\numbersfromNto1\obj\Debug\netcoreapp3.1\ex2numbersfromNto1.AssemblyInfoInputs.cache
+C:\Users\tex_sof_adm\Downloads\forLoops\numbersfromNto1\obj\Debug\netcoreapp3.1\ex2numbersfromNto1.AssemblyInfo.cs
+C:\Users\tex_sof_adm\Downloads\forLoops\numbersfromNto1\obj\Debug\netcoreapp3.1\ex2numbersfromNto1.dll
+C:\Users\tex_sof_adm\Downloads\forLoops\numbersfromNto1\obj\Debug\netcoreapp3.1\ex2numbersfromNto1.pdb
