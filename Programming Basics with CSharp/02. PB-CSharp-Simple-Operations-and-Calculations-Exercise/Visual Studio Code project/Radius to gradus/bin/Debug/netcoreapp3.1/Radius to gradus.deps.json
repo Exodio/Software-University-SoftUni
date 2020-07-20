@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Radius to gradus/1.0.0": {
+        "runtime": {
+          "Radius to gradus.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Radius to gradus/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

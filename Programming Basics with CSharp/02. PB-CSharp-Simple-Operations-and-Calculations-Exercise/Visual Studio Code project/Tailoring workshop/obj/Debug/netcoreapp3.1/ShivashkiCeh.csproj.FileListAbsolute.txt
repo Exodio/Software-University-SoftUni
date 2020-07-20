@@ -1,0 +1,11 @@
+C:\Users\Adrian\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\D3\USD to BGN\ShivashkiCeh\bin\Debug\netcoreapp3.1\ShivashkiCeh.exe
+C:\Users\Adrian\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\D3\USD to BGN\ShivashkiCeh\bin\Debug\netcoreapp3.1\ShivashkiCeh.deps.json
+C:\Users\Adrian\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\D3\USD to BGN\ShivashkiCeh\bin\Debug\netcoreapp3.1\ShivashkiCeh.runtimeconfig.json
+C:\Users\Adrian\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\D3\USD to BGN\ShivashkiCeh\bin\Debug\netcoreapp3.1\ShivashkiCeh.runtimeconfig.dev.json
+C:\Users\Adrian\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\D3\USD to BGN\ShivashkiCeh\bin\Debug\netcoreapp3.1\ShivashkiCeh.dll
+C:\Users\Adrian\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\D3\USD to BGN\ShivashkiCeh\bin\Debug\netcoreapp3.1\ShivashkiCeh.pdb
+C:\Users\Adrian\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\D3\USD to BGN\ShivashkiCeh\obj\Debug\netcoreapp3.1\ShivashkiCeh.csprojAssemblyReference.cache
+C:\Users\Adrian\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\D3\USD to BGN\ShivashkiCeh\obj\Debug\netcoreapp3.1\ShivashkiCeh.AssemblyInfoInputs.cache
+C:\Users\Adrian\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\D3\USD to BGN\ShivashkiCeh\obj\Debug\netcoreapp3.1\ShivashkiCeh.AssemblyInfo.cs
+C:\Users\Adrian\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\D3\USD to BGN\ShivashkiCeh\obj\Debug\netcoreapp3.1\ShivashkiCeh.dll
+C:\Users\Adrian\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\D3\USD to BGN\ShivashkiCeh\obj\Debug\netcoreapp3.1\ShivashkiCeh.pdb

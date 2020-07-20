@@ -1,0 +1,11 @@
+C:\Users\Adrian\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\D3\USD to BGN\Radius to gradus\bin\Debug\netcoreapp3.1\Radius to gradus.exe
+C:\Users\Adrian\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\D3\USD to BGN\Radius to gradus\bin\Debug\netcoreapp3.1\Radius to gradus.deps.json
+C:\Users\Adrian\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\D3\USD to BGN\Radius to gradus\bin\Debug\netcoreapp3.1\Radius to gradus.runtimeconfig.json
+C:\Users\Adrian\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\D3\USD to BGN\Radius to gradus\bin\Debug\netcoreapp3.1\Radius to gradus.runtimeconfig.dev.json
+C:\Users\Adrian\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\D3\USD to BGN\Radius to gradus\bin\Debug\netcoreapp3.1\Radius to gradus.dll
+C:\Users\Adrian\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\D3\USD to BGN\Radius to gradus\bin\Debug\netcoreapp3.1\Radius to gradus.pdb
+C:\Users\Adrian\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\D3\USD to BGN\Radius to gradus\obj\Debug\netcoreapp3.1\Radius to gradus.csprojAssemblyReference.cache
+C:\Users\Adrian\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\D3\USD to BGN\Radius to gradus\obj\Debug\netcoreapp3.1\Radius to gradus.AssemblyInfoInputs.cache
+C:\Users\Adrian\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\D3\USD to BGN\Radius to gradus\obj\Debug\netcoreapp3.1\Radius to gradus.AssemblyInfo.cs
+C:\Users\Adrian\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\D3\USD to BGN\Radius to gradus\obj\Debug\netcoreapp3.1\Radius to gradus.dll
+C:\Users\Adrian\Desktop\Flash\Programing Basics Course\VISUAL STUDIO PROJECTS\D3\USD to BGN\Radius to gradus\obj\Debug\netcoreapp3.1\Radius to gradus.pdb
