@@ -1,0 +1,11 @@
+C:\Users\tex_sof_adm\Downloads\forLoops\ex1numbers1To100\bin\Debug\netcoreapp3.1\ex1numbers1To100.exe
+C:\Users\tex_sof_adm\Downloads\forLoops\ex1numbers1To100\bin\Debug\netcoreapp3.1\ex1numbers1To100.deps.json
+C:\Users\tex_sof_adm\Downloads\forLoops\ex1numbers1To100\bin\Debug\netcoreapp3.1\ex1numbers1To100.runtimeconfig.json
+C:\Users\tex_sof_adm\Downloads\forLoops\ex1numbers1To100\bin\Debug\netcoreapp3.1\ex1numbers1To100.runtimeconfig.dev.json
+C:\Users\tex_sof_adm\Downloads\forLoops\ex1numbers1To100\bin\Debug\netcoreapp3.1\ex1numbers1To100.dll
+C:\Users\tex_sof_adm\Downloads\forLoops\ex1numbers1To100\bin\Debug\netcoreapp3.1\ex1numbers1To100.pdb
+C:\Users\tex_sof_adm\Downloads\forLoops\ex1numbers1To100\obj\Debug\netcoreapp3.1\ex1numbers1To100.csprojAssemblyReference.cache
+C:\Users\tex_sof_adm\Downloads\forLoops\ex1numbers1To100\obj\Debug\netcoreapp3.1\ex1numbers1To100.AssemblyInfoInputs.cache
+C:\Users\tex_sof_adm\Downloads\forLoops\ex1numbers1To100\obj\Debug\netcoreapp3.1\ex1numbers1To100.AssemblyInfo.cs
+C:\Users\tex_sof_adm\Downloads\forLoops\ex1numbers1To100\obj\Debug\netcoreapp3.1\ex1numbers1To100.dll
+C:\Users\tex_sof_adm\Downloads\forLoops\ex1numbers1To100\obj\Debug\netcoreapp3.1\ex1numbers1To100.pdb

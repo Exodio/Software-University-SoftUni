@@ -1,0 +1,11 @@
+C:\Users\tex_sof_adm\Downloads\forLoops\ex3numbersToNwithStep3\bin\Debug\netcoreapp3.1\ex3numbersToNwithStep3.exe
+C:\Users\tex_sof_adm\Downloads\forLoops\ex3numbersToNwithStep3\bin\Debug\netcoreapp3.1\ex3numbersToNwithStep3.deps.json
+C:\Users\tex_sof_adm\Downloads\forLoops\ex3numbersToNwithStep3\bin\Debug\netcoreapp3.1\ex3numbersToNwithStep3.runtimeconfig.json
+C:\Users\tex_sof_adm\Downloads\forLoops\ex3numbersToNwithStep3\bin\Debug\netcoreapp3.1\ex3numbersToNwithStep3.runtimeconfig.dev.json
+C:\Users\tex_sof_adm\Downloads\forLoops\ex3numbersToNwithStep3\bin\Debug\netcoreapp3.1\ex3numbersToNwithStep3.dll
+C:\Users\tex_sof_adm\Downloads\forLoops\ex3numbersToNwithStep3\bin\Debug\netcoreapp3.1\ex3numbersToNwithStep3.pdb
+C:\Users\tex_sof_adm\Downloads\forLoops\ex3numbersToNwithStep3\obj\Debug\netcoreapp3.1\ex3numbersToNwithStep3.csprojAssemblyReference.cache
+C:\Users\tex_sof_adm\Downloads\forLoops\ex3numbersToNwithStep3\obj\Debug\netcoreapp3.1\ex3numbersToNwithStep3.AssemblyInfoInputs.cache
+C:\Users\tex_sof_adm\Downloads\forLoops\ex3numbersToNwithStep3\obj\Debug\netcoreapp3.1\ex3numbersToNwithStep3.AssemblyInfo.cs
+C:\Users\tex_sof_adm\Downloads\forLoops\ex3numbersToNwithStep3\obj\Debug\netcoreapp3.1\ex3numbersToNwithStep3.dll
+C:\Users\tex_sof_adm\Downloads\forLoops\ex3numbersToNwithStep3\obj\Debug\netcoreapp3.1\ex3numbersToNwithStep3.pdb
