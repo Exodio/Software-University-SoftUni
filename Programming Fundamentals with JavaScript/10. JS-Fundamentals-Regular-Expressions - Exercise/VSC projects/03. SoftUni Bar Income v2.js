@@ -1,28 +1,21 @@
 function solve(input) {
 
-    let totalPrice = 0;
+    let totalIncome = 0;
 
     for (const eachOrder of input) {
         const regexPattern = /%(?<customer>[A-Z][a-z]+)%(?:[^\|\$%\.]+)?<(?<product>[A-Za-z0-9_]+)>(?:[^\|\$%\.]+)?\|(?<count>[0-9]+)\|(?:[^\|\$%\.[0-9]+)?(?<price>[0-9]+\.?[0-9]+)\$/g;
         let matchExec = regexPattern.exec(eachOrder);
 
         if (matchExec) {
-            let {
-                customer,
-                product,
-                count,
-                price,
-            } = matchExec.groups;
+            let totalPrice = Number(matchExec.groups.price) * Number(matchExec.groups.count);
+            totalIncome += totalPrice;
 
-            let valueOfPurchases = Number(count) * Number(price);
-            console.log(`${customer}: ${product} - ${valueOfPurchases.toFixed(2)}`);
-
-            totalPrice += valueOfPurchases;
+            console.log(`${matchExec.groups.customer}: ${matchExec.groups.product} - ${totalPrice.toFixed(2)}`);
         }
     }
 
 
-    console.log(`Total income: ${totalPrice.toFixed(2)}`);
+    console.log(`Total income: ${totalIncome.toFixed(2)}`);
 }
 
 solve(["%George%<Croissant>|2|10.3$",
