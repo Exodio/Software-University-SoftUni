@@ -10,7 +10,6 @@ function solve(input) {
         let secondArgument = Number(tokens[2]);
 
         if (command === "End") {
-            console.log(targetsSequence.join("|"));
             break;
         }
 
@@ -28,16 +27,16 @@ function solve(input) {
 
             } else if (command === "Add") {
                 if (firstArgument >= targetsSequence.length || firstArgument < 0) {
-                    console.log(`Invalid placement!`);
+                    console.log("Invalid placement!");
                     break;
                 } else if (firstArgument === element) {
                     targetsSequence.splice(firstArgument, 0, secondArgument);
                     break;
                 }
-                
+
             } else if (command === "Strike") {
                 if (firstArgument + secondArgument >= targetsSequence.length || firstArgument - secondArgument < 0) {
-                    console.log(`Strike missed!`);
+                    console.log("Strike missed!");
                     break;
                 } else {
                     let numberIndex = targetsSequence[firstArgument];
@@ -49,7 +48,9 @@ function solve(input) {
             }
         }
     }
+    console.log(targetsSequence.join("|"));
 }
+
 solve([
     "52 74 23 44 96 110",
     "Shoot 5 10",
