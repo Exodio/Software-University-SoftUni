@@ -17,3 +17,8 @@ SKILLS YOU WILL ACQUIRE
 - Analysis of complex problems and reduction to computer-executable steps
 - Working with linear data structures
 - Basics of web development
+
+
+CERTIFICATE
+-
+![JS Fundamentals - May 2020 - Certificate.jpeg](https://github.com/Exodio/Software-University-SoftUni/blob/master/Certifications/JS%20Fundamentals%20-%20May%202020%20-%20Certificate.jpeg)
