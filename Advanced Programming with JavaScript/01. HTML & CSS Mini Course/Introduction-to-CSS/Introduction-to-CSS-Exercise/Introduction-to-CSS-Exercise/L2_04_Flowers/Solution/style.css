@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+body {
+    font-family: Open Sans, sans-serif;
+    /* background: rgb(214,116,114); */
+    margin: 0 auto;
+    padding: 0;
+    text-align: center;
+    width: 80%;
+}
+
+nav {
+    background: white;
+    padding: 0.1px;
+}
+
+li {
+    display: inline-block;
+    list-style-type: none;
+}
+
+header nav li:not(:last-child) {
+    margin-right: 2rem;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(214, 116, 114);
+    font-weight: bold;
+}
+
+#first {
+    color: white;
+}
+
+#first article:first-child {
+    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.6)),
+        url(./Images/header-flower.png) no-repeat center center;
+    background-size: cover;
+    padding: 0.1px;
+}
+
+#first article:first-child h1 {
+    letter-spacing: 0.1rem;
+    padding: 13rem 0.5rem 1rem 0;
+    font-size: 36px;
+}
+
+#first p {
+    width: 45%;
+    margin: 0 auto;
+    padding: 1rem 0 13rem 0;
+    font-size: 16px;
+}
+
+hr {
+    background: rgb(214, 116, 114);
+    width: 4rem;
+    height: 2px;
+    border: none;
+    margin: 5 auto;
+}
+
+#first article:last-child {
+    background: rgb(214, 116, 114);
+    padding: 0.1px;
+}
+
+h1 {
+    padding: 2rem 0 1rem 0;
+    font-size: 20px;
+}
+
+#first article:last-child p {
+    width: 45%;
+    margin: 0 auto;
+    padding: 1rem 0 2rem 0;
+    font-size: 16px;
+}
+
+#first article:nth-child(2) hr {
+    background: white;
+}
+
+button {
+    margin-bottom: 2rem;
+    color: rgb(214, 116, 114);
+    background: #F7FAFA;
+    border: none;
+    border-radius: 5px;
+    padding: 0.8rem 1.5rem;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+#second {
+    background: white;
+
+}
+
+#second div {
+    width: 60%;
+    margin: 0 auto;
+    padding: 2rem 0 1rem 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+#second article {
+    width: 25%;
+}
+
+#second p {
+    color: #868F8C;
+    font-size: 12px;
+    padding: 1rem 0 2rem 0;
+}
+
+#second img {
+    width: 6rem;
+    height: 6rem;
+}
+
+footer {
+    background: rgb(214, 116, 114);
+    padding: 1rem 0;
+    font-size: 14px;
+    color: white;
+}

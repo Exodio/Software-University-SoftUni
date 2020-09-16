@@ -1,0 +1,41 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+body {
+    padding: 5% 10% 5% 10%;
+    margin: 0 auto;
+    font-family: Open Sans, sans-serif;
+}
+
+header {
+    padding-bottom: 2%;
+}
+
+article {
+    display: inline-block;
+}
+
+header article {
+    border-color: #656565;
+    border-left: 2px solid;
+    padding: 1%;
+}
+
+header article:nth-child(1) {
+    width: 58%;
+}
+
+header article:nth-child(2) {
+    width: 30%;
+}
+
+header p {
+    color: #656565;
+}
+
+main article {
+    width: 28%;
+}
+
+main article:nth-child(2) {
+    padding: 0 2% 0 2%;
+}

@@ -1,0 +1,78 @@
+@import url(https://fonts.googleapis.com/css?family=Lato);
+
+body {
+    font-family: "Lato", sans-serif;
+    width: 50%;
+    padding: 10% 10% 10% 10%;
+}
+
+form {
+    display: inline-block;
+    text-align: center;
+    padding: 0;
+    margin: 0 auto;
+}
+
+form section:nth-child(1) {
+    background-image: linear-gradient(to bottom, rgba(63, 191, 191, 0.2), rgba(191, 63, 191, 0.2)),
+        url("img/peak.jpg");
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: left top;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    border: 1px solid;
+    border-radius: 20px 0 0 20px;
+}
+
+form section {
+    width: calc(50% - 6px);
+    display: table-cell;
+}
+
+label {
+    display: block;
+    padding: 5px 5px 10px 55px;
+    color: rgb(218, 217, 220);
+    text-align: left;
+}
+
+input {
+    width: 50%;
+    color: rgb(118, 115, 115);
+}
+
+h1 {
+    padding-bottom: 90%;
+}
+
+form section:nth-child(2) {
+    border-color: #38082A;
+    border: 2px solid;
+    border-radius: 0 20px 20px 0;
+    padding: 50px 50px 50px 10px;
+}
+
+.button {
+    background-color: #38082A;
+    border: 1px solid #38082A;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.button:hover {
+    cursor: pointer;
+}
+
+body>form>section:nth-child(2)>label:nth-child(9)>a {
+    color: #38082A;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+p {
+    margin: 10px;
+}
