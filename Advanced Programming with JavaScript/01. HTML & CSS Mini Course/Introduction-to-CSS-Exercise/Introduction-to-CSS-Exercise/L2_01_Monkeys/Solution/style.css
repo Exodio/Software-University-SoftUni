@@ -1,0 +1,33 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+body {
+    background-color: #FAEBC8;
+    font-family: 'Open Sans', serif;
+}
+
+section {
+    background-color: white;
+    box-shadow: 0 0 20px 0 #000000;
+    border-radius: 10px;
+    width: 80%;
+    text-align: center;
+    margin: 30px auto;
+    padding: 50px;
+}
+
+article {
+    display: inline-block;
+    width: 30%;
+    text-align: left;
+    padding: 0 10px 0 10px;
+}
+
+article>p>span {
+    display: block;
+    text-shadow: 20px 20px 2px rgba(150, 150, 150, 1);
+}
+
+article img {
+    height: 250px;
+    width: auto;
+}
