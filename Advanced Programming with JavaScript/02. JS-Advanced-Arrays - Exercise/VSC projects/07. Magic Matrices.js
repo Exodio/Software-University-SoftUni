@@ -9,10 +9,10 @@ function solve(input) {
             return acc;
         }, 0);
 
-        if (rowSum !== columnSum || (resultArr.length > 0 && (rowSum !== resultArr[0] || columnSum !== resultArr[1]))) {
+        if (rowSum !== columnSum || (resultArr.length > 0 && (rowSum !== resultArr[0] || columnSum !== resultArr[1]))) { //We compare the resultArr with the upcoming rows and cols
             console.log("false");
             return;
-        } else if (row === '0') {
+        } else if (row === "0") { //We add the comparison row and colum to the resultArr
             resultArr.push(rowSum, columnSum);
         }
     }
