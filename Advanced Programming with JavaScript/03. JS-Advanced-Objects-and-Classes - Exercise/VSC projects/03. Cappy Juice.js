@@ -18,7 +18,7 @@ function solve(input) {
         }
     }
 
-    let result = Object.entries(bottlesObj);
+    let result = Object.entries(bottlesObj); 
     result.forEach(kvp => {
         console.log(`${kvp[0]} => ${kvp[1]}`);
     });

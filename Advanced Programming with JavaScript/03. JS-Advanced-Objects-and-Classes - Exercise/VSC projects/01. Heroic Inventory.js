@@ -1,21 +1,47 @@
+// function solve(input) {
+
+//     let data = [];
+//     let registerObj = {};
+
+//     for (const line of input) {
+//         let [name, level, items] = line.split(" / ");
+
+//         registerObj = {
+//             name: name,
+//             level: Number(level),
+//             items: items ? items.split(", ") : [],
+//         }
+
+//         data.push(registerObj);
+//     }
+
+//     console.log(JSON.stringify(data));
+// }
 function solve(input) {
 
-    let arrResult = [];
-    let objData = {};
+    let data = [];
+    let registerObj = {};
 
-    for (const element of input) {
-        let [name, level, items] = element.split(" / ");
+    for (const line of input) {
+        let [name, level, items] = line.split(" / ");
+        level = Number(level);
 
-        objData = {
+        if (items === undefined) {
+            items = [];
+        } else {
+            items = items.split(", ");
+        }
+        
+        registerObj = {
             name: name,
-            level: Number(level),
-            items: items ? items.split(", ") : [],
+            level: level,
+            items: items,
         }
 
-        arrResult.push(objData);
+        data.push(registerObj);
     }
 
-    console.log(JSON.stringify(arrResult));
+    console.log(JSON.stringify(data));
 }
 
 solve(['Isacc / 25 / Apple, GravityGun',
