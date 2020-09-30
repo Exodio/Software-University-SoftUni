@@ -1,15 +1,29 @@
+// function toggle() {
+
+//     let buttonElement = document.getElementsByClassName("button")[0];
+//     let contentElement = document.getElementById("extra");
+//     let display;
+//     let textContent;
+
+//     if (contentElement.style.display !== "block") {
+//         [display, textContent] = ["block", "Less"];
+//     } else {
+//         [display, textContent] = ["none", "More"];
+//     }
+
+//     [contentElement.style.display, buttonElement.textContent] = [display, textContent];
+// }
+
 function toggle() {
 
     let buttonElement = document.getElementsByClassName("button")[0];
     let contentElement = document.getElementById("extra");
-    let display;
-    let textContent;
 
-    if (contentElement.style.display !== "block") {
-        [display, textContent] = ["block", "Less"];
+    if (buttonElement.textContent === "More") { //textInput === innerText!
+        contentElement.style.display === "block";
+        buttonElement.textContent = "Less"; //buttonElement.innerText = "Less" or buttonElement.innerHTML = "Less";
     } else {
-        [display, textContent] = ["none", "More"];
+        buttonElement.textContent = "More";
+        contentElement.style.display === "none"; //  === "";
     }
-
-    [contentElement.style.display, buttonElement.textContent] = [display, textContent];
 }
