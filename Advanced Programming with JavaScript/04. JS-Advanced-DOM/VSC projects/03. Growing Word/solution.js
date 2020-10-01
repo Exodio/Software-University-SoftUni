@@ -1,25 +1,25 @@
-function growingWord() {
+// function growingWord() {
 
-  let word = document.querySelector("#exercise > p");
-  let pxSize = 2;
+//   let word = document.querySelector("#exercise > p");
+//   let pxSize = 2;
 
-  let colorChanger = {
-    "blue": "green",
-    "green": "red",
-    "red": "blue",
-  };
+//   let colorChanger = {
+//     "blue": "green",
+//     "green": "red",
+//     "red": "blue",
+//   };
 
-  if (!word.hasAttribute("style")) {
-    word.setAttribute("style", `color:blue; font-size: ${pxSize}px`);
-  } else {
-    let currColor = word.style.color;
-    let currPxSize = word.style["font-size"];
-    pxSize = currPxSize.substring(0, currPxSize.length - 2) * 2;
+//   if (!word.hasAttribute("style")) {
+//     word.setAttribute("style", `color:blue; font-size: ${pxSize}px`);
+//   } else {
+//     let currColor = word.style.color;
+//     let currPxSize = word.style["font-size"];
+//     pxSize = currPxSize.substring(0, currPxSize.length - 2) * 2;
 
-    word.setAttribute("style",
-      `color:${colorChanger[currColor]}; font-size: ${pxSize}px`)
-  }
-}
+//     word.setAttribute("style",
+//       `color:${colorChanger[currColor]}; font-size: ${pxSize}px`)
+//   }
+// }
 
 // function growingWord() {
 
@@ -54,3 +54,22 @@ function growingWord() {
 //     return newSize + "px";
 //   }
 // }
+
+function growingWord() {
+
+    let growingWordParentElement = document.getElementById("exercise");
+    let growingWordElement = growingWordParentElement.lastElementChild;
+    let colorElement = document.getElementById("colors");
+
+    if (!growingWordElement.style.fontSize) {
+        growingWordElement.style.fontSize = "2px";
+    } else {
+        growingWordElement.style.fontSize = parseInt(growingWordElement.style.fontSize) * 2 + "px";
+    }
+
+    let firstColorElement = colorElement.firstElementChild;
+    let color = colorElement.firstElementChild.innerHTML.toLowerCase();
+    growingWordElement.style.color = color;
+
+    colorElement.appendChild(firstColorElement);
+}

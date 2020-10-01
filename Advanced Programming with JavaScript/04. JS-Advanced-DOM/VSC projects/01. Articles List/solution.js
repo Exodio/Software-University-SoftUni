@@ -1,23 +1,45 @@
+// function createArticle() {
+
+// 	let titleElement = document.getElementById("createTitle"); //1 Getting elemenets from DOM
+// 	let textAreaElement = document.getElementById("createContent");
+// 	let articlesElement = document.getElementById("articles");
+
+// 	let articleElement = document.createElement("article"); //2 Creating the new elements
+// 	let h3Element = document.createElement("h3");
+// 	let pElement = document.createElement("p");
+
+// 	if (titleElement.value !== "" && textAreaElement.value !== "") { //4 Creating new elements only if the title and content is not empty
+// 		articlesElement.appendChild(articleElement); //3 Appending the new elements
+// 		article.appendChild(h3Element);
+// 		article.appendChild(pElement);
+
+// 		h3.innerHTML = titleElement.value; //4
+// 		p.innerHTML = textAreaElement.value;
+// 	}
+
+
+// 	titleElement.value = ""; //5 After button being pressed - clearing the title value and text value
+// 	textAreaElement.value = "";
+// }
+
 function createArticle() {
 
-	let input = document.getElementById("createTitle"); //1 Getting elemenets from DOM
-	let textArea = document.getElementById("createContent");
-	let articles = document.getElementById("articles");
+	let titleInputElement = document.getElementById("createTitle");
+	let contentInputElement = document.getElementById("createContent");
 
-	let article = document.createElement("article"); //2 Creating the new elements
-	let h3 = document.createElement("h3");
-	let p = document.createElement("p");
+	let h3Element = document.createElement("h3");
+	h3Element.innerHTML = titleInputElement.value;
 
-	if (input.value !== "" && textArea.value !== "") { //4 Creating new elements only if the title and content is not empty
-		articles.appendChild(article); //3 Appending the new elements
-		article.appendChild(h3);
-		article.appendChild(p);
+	let pElement = document.createElement("p");
+	pElement.innerHTML = contentInputElement.value;
 
-		h3.innerHTML = input.value; //4
-		p.innerHTML = textArea.value;
-	}
+	let articleElement = document.createElement("article");
+	articleElement.appendChild(h3Element);
+	articleElement.appendChild(pElement);
 
+	let articleSectionElement = document.getElementById("articles");
+	articleSectionElement.appendChild(articleElement);
 
-	input.value = ""; //5 After button being pressed - clearing the title value and text value
-	textArea.value = "";
+	titleInputElement.value = "";
+	contentInputElement.value = "";
 }
