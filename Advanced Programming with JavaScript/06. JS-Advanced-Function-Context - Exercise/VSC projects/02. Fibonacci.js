@@ -1,23 +1,39 @@
+// function getFibonator() {
+
+//     let count = 0;
+
+//     function fib(value) {
+
+//         if (value <= 1) {
+//             return 1;
+//         }
+
+//         return fib(value - 2) + fib(value - 1);
+//     }
+
+//     return function innerCheck() {
+//         let result = fib(count);
+
+//         count++;
+
+//         return result;
+//     }
+// }
+
 function getFibonator() {
 
-    let count = 0;
+    let currentNumber = 0;
+    let nextNumber = 1;
 
-    function fib(value) {
+    function fib() { //closure function
+        let fibNumber = currentNumber + nextNumber;
+        currentNumber = nextNumber;
+        nextNumber = fibNumber;
 
-        if (value <= 1) {
-            return 1;
-        }
-
-        return fib(value - 2) + fib(value - 1);
+        return currentNumber;
     }
 
-    return function innerCheck() {
-        let result = fib(count);
-
-        count++;
-
-        return result;
-    }
+    return fib;
 }
 
 //input + output
