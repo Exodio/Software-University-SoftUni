@@ -1,8 +1,8 @@
-function solve(...arguments) {
+function solve(...arguments) { 
 
     argsData = {};
 
-    arguments.forEach(arg => {
+    arguments.forEach(arg => { // The ... can be placed here as well
         let argType = typeof (arg);
         console.log(`${argType}: ${arg}`);
 

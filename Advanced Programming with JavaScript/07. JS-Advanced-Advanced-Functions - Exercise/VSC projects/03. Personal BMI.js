@@ -1,6 +1,6 @@
 function solve(name, age, weight, height) {
 
-    let bmiCalc = Math.round(weight / ((height / 100) * (height / 100)));
+    let bmiCalc = Math.round(Number(weight) / ((Number(height) / 100) * (Number(height) / 100)));
     let patientChart = {
         name,
         personalInfo: {
