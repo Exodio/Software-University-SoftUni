@@ -86,80 +86,151 @@
 //     }
 // });
 
-function solution() {
+// function solution() {
 
-    const recipesLibrary = {
-        apple: {
-            carbohydrate: 1,
-            flavour: 2,
-        },
-        lemonade: {
-            carbohydrate: 10,
-            flavour: 20,
-        },
-        burger: {
-            carbohydrate: 5,
-            fat: 7,
-            flavour: 3,
-        },
-        eggs: {
-            protein: 5,
-            fat: 1,
-            flavour: 1,
-        },
-        turkey: {
-            protein: 10,
-            fat: 10,
-            carbohydrates: 10,
-            flavour: 10,
+//     const recipesLibrary = {
+//         apple: {
+//             carbohydrate: 1,
+//             flavour: 2,
+//         },
+//         lemonade: {
+//             carbohydrate: 10,
+//             flavour: 20,
+//         },
+//         burger: {
+//             carbohydrate: 5,
+//             fat: 7,
+//             flavour: 3,
+//         },
+//         eggs: {
+//             protein: 5,
+//             fat: 1,
+//             flavour: 1,
+//         },
+//         turkey: {
+//             protein: 10,
+//             fat: 10,
+//             carbohydrates: 10,
+//             flavour: 10,
+//         }
+//     }
+
+//     const robotStorage = {
+//         protein: 0,
+//         carbohydrate: 0,
+//         fat: 0,
+//         flavour: 0,
+//     };
+
+//     const commandsList = {
+//         restock: (microElement, quantity) => {
+//             robotStorage[microElement] += Number(quantity);
+//             return 'Success';
+//         },
+//         prepare: (recipe, quanity) => {
+//             let mealRequest = Object.entries(recipesLibrary[recipe]);
+
+//             for (let [item, neededAmount] of mealRequest) {
+//                 if (robotStorage[item] < neededAmount * quanity) {
+//                     return `Error: not enough ${item} in stock`;
+//                 }
+//             }
+
+//             mealRequest.forEach(([item, neededAmount]) => {
+//                 robotStorage[item] -= neededAmount * quanity;
+//             });
+
+//             return 'Success';
+//         },
+//         report: () => Object.entries(robotStorage).
+//         map(([microElement, count]) =>
+//             `${microElement}=${count}`).join(" "),
+//     };
+
+//     return (input) => {
+//         let [command, item, count] = input.split(" ");
+
+//         return commandsList[command](item, Number(count));
+//     }
+// }
+
+solution = () => {
+
+  let recipesLibrary = {
+    apple: {
+      carbohydrate: 1,
+      flavour: 2,
+    },
+    lemonade: {
+      carbohydrate: 10,
+      flavour: 20,
+    },
+    burger: {
+      carbohydrate: 5,
+      fat: 7,
+      flavour: 3,
+    },
+    eggs: {
+      protein: 5,
+      fat: 1,
+      flavour: 1,
+    },
+    turkey: {
+      protein: 10,
+      carbohydrate: 10,
+      fat: 10,
+      flavour: 10,
+    },
+  };
+
+  let robotStorage = {
+    protein: 0,
+    carbohydrate: 0,
+    fat: 0,
+    flavour: 0,
+  };
+
+  let commandsList = {
+    restock: (microelement, quantity) => {
+      robotStorage[microelement] += Number(quantity);
+      return "Success";
+    },
+    prepare: (recipe, quantity) => {
+      let recipeRequest = Object.entries(recipesLibrary[recipe]);
+      for (const [product, neededAmount] of recipeRequest) {
+
+        if (robotStorage[product] < neededAmount * quantity) {
+          return `Error: not enough ${product} in stock`;
         }
-    }
+      }
 
-    const robotStorage = {
-        protein: 0,
-        carbohydrate: 0,
-        fat: 0,
-        flavour: 0,
-    };
+      recipeRequest.forEach(([product, neededAmount]) => {
+        robotStorage[product] -= neededAmount * quantity;
+      });
+      return "Success";
+    },
+    report: () =>
+      Object.entries(robotStorage)
+        .map(([product, count]) => `${product}=${count}`)
+        .join(" "),
+  };
 
-    const commandsList = {
-        restock: (microElement, quantity) => {
-            robotStorage[microElement] += Number(quantity);
-            return 'Success';
-        },
-        prepare: (recipe, quanity) => {
-            let mealRequest = Object.entries(recipesLibrary[recipe]);
-
-            for (let [item, neededAmount] of mealRequest) {
-                if (robotStorage[item] < neededAmount * quanity) {
-                    return `Error: not enough ${item} in stock`;
-                }
-            }
-
-            mealRequest.forEach(([item, neededAmount]) => {
-                robotStorage[item] -= neededAmount * quanity;
-            });
-
-            return 'Success';
-        },
-        report: () => Object.entries(robotStorage).
-        map(([microElement, count]) =>
-            `${microElement}=${count}`).join(" "),
-    };
-
-    return (input) => {
-        let [command, item, count] = input.split(" ");
-        
-        return commandsList[command](item, Number(count));
-    }
+  return (input) => {
+    let [command, item, count] = input.split(" ");
+    return commandsList[command](item, Number(count));
+  };
 }
 
 let manager = solution();
-manager("restock flavour 50"); // Success
-manager("prepare lemonade 4"); // Error: not enough carbohydrate in stock
-manager("restock carbohydrate 10");
-manager("restock flavour 10");
-manager("prepare apple 1");
-manager("restock fat 10");
-manager("prepare burger 1");
-manager("report");
+[
+  "prepare turkey 1",
+  "restock protein 10",
+  "prepare turkey 1",
+  "restock carbohydrate 10",
+  "prepare turkey 1",
+  "restock fat 10",
+  "prepare turkey 1",
+  "restock flavour 10",
+  "prepare turkey 1",
+  "report",
+].forEach((commandLine) => console.log(manager(commandLine)));

@@ -23,7 +23,6 @@ function solve(...arguments) {
 solve('cat', 42, function () {
     console.log('Hello world!');
 });
-
 //output
 // string: cat
 // number: 42
