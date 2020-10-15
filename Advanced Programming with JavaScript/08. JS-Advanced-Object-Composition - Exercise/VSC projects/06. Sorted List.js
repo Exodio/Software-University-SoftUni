@@ -1,4 +1,4 @@
-// class List {
+// class List { //v1
 //     constructor() {
 //         this.list = [];
 //         this.list.sort((a, b) => a - b);
@@ -73,16 +73,9 @@
 // let b = solve();
 // console.log(b.size)
 
-function solve() {
+function solve() { //v2
 
     let listElements = [];
-
-    return {
-        add,
-        remove,
-        get,
-        size: 0,
-    };
 
     function add(element) {
         listElements.push(element);
@@ -105,8 +98,16 @@ function solve() {
             return listElements[index];
         }
     }
+
+    return {
+        add,
+        remove,
+        get,
+        size: 0,
+    };
 }
 
+//input
 let a = solve();
 a.add(5);
 console.log(a.size)
