@@ -1,19 +1,20 @@
-function personAndTeacher() {
+ function personAndTeacher() {
 
-    class Person {
-        constructor(name = "", email = "") {
-            [this.name, this.email] = [name, email];
-        }
-    }
+     class Person {
+         constructor(name = "", email = "") {
+             [this.name, this.email] = [name, email];
+         }
+     }
 
-    class Teacher extends Person {
-        constructor(name = "", email = "", subject = "") {
-            [this.name, this.email, this.subject] = [name, email, subject];
-        }
-    }
+     class Teacher extends Person {
+         constructor(name = "", email = "", subject = "") {
+             super(name, email);
+             this.subject = subject;
+         }
+     }
 
-    return {
-        Person,
-        Teacher,
-    };
-}
+     return {
+         Person,
+         Teacher,
+     };
+ }
