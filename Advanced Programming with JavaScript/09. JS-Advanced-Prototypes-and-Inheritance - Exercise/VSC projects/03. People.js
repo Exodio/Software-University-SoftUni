@@ -69,3 +69,9 @@ function solve() {
         Manager,
     };
 }
+
+let app = solve();
+let juniorEmployee = new app.Junior("Peter", 40);
+juniorEmployee.salary = 1200;
+juniorEmployee.work();
+juniorEmployee.collectSalary();

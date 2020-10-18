@@ -46,3 +46,7 @@ function solve() {
         BirthdayBalloon,
     };
 }
+
+let app = solve();
+let test = new app.PartyBalloon("Tumno-bqlo", 20.5, "Svetlo-cherno", 10.25);
+console.log(test);
