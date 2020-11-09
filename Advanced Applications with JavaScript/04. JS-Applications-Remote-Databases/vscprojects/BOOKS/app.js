@@ -1,134 +1,158 @@
+//import the requests
 import * as requests from "./requests.js";
-
+//create an IIFE in order to not polute the global scope
 (function () {
-  const domElements = {
-    loadButtonElement: document.getElementById("loadBooks"),
-    submitButtonElement: document.querySelector("form button"),
-
+  //list the needed dom elements in an object
+  const booksCollection = {
+    loadAllBooksButtonElement: document.getElementById("loadBooks"),
     booksContainerElement: document.querySelector("tbody"),
 
     titleInputElement: document.getElementById("title"),
     authorInputElement: document.getElementById("author"),
     isbnInputElement: document.getElementById("isbn"),
-  };
+    tagsInputElement: document.getElementById("tags"),
+    submitButtonElement: document.querySelector("form button"),
 
-  domElements.loadButtonElement.addEventListener("click", loadAllBooks);
-  domElements.submitButtonElement.addEventListener("click", submitBook);
+  };
+  //add click handler functionality for the two main buttons
+  booksCollection.loadAllBooksButtonElement.addEventListener("click", loadAllBooks);
+  booksCollection.submitButtonElement.addEventListener("click", submitBook);
 
   function submitBook(e) {
     e.preventDefault();
-
-    let title = domElements.titleInputElement.value;
-    let author = domElements.authorInputElement.value;
-    let isbn = domElements.isbnInputElement.value;
-
-    if (!title || !author || !isbn) {
+    //take the inputs params
+    let title = booksCollection.titleInputElement.value;
+    let author = booksCollection.authorInputElement.value;
+    let isbn = booksCollection.isbnInputElement.value;
+    let tags = booksCollection.tagsInputElement.value;
+    //check if all params are available
+    if (!title || !author || !isbn || !tags) {
       return;
     }
-
-    domElements.titleInputElement.value = "";
-    domElements.authorInputElement.value = "";
-    domElements.isbnInputElement.value = "";
-
-    let newBookObj = {
+    //clear the input fields 
+    booksCollection.titleInputElement.value = "";
+    booksCollection.authorInputElement.value = "";
+    booksCollection.isbnInputElement.value = "";
+    booksCollection.tagsInputElement.value = "";
+    //list the submitted params into an object
+    let newBookData = {
       title,
       author,
       isbn,
+      tags,
     };
-
+    //validate new book request and check for errors
     requests
-      .createNewBook(newBookObj)
-      .then(loadAllBooks)
+      .submitNewBook(newBookData)
       .catch(errorHandler);
   }
 
   function loadAllBooks() {
-    domElements.booksContainerElement.innerHTML = "";
-
+    //clear the body of the listed information pre-loading
+    booksCollection.booksContainerElement.innerHTML = "";
+    //validate the current listed books request and check for errors
     requests
       .getAllBooks()
       .then((data) => {
-        if (data === null) {
-          throw new Error("There are no books listed in this database container!");
+        //check if there are listed books(data)
+        if (!data) {
+          throw new Error("There are no books listed in the database container!");
         }
-
+        //else loop through the books(data)
         for (const [id, bookInfo] of Object.entries(data)) {
-          let tr = createElement("tr");
-          tr.setAttribute("data-id", id);
-
-          let title = createElement("td", [], bookInfo.title);
-          title.contentEditable = true;
-
-          let author = createElement("td", [], bookInfo.author);
-          author.contentEditable = true;
-
-          let isbn = createElement("td", [], bookInfo.isbn);
-          isbn.contentEditable = true;
-
-          let action = createElement("td");
-
+          //create tr element
+          let trData = createElement("tr");
+          //set the data id key
+          trData.setAttribute("data-id", id);
+          //create the td of the title, set its element type, list an arr of the class elements and the title name
+          let TdTitle = createElement("td", [], bookInfo.title);
+          //set the container to be edditable and append the element
+          TdTitle.contentEditable = true;
+          trData.appendChild(TdTitle);
+          //create the td of the author, set its element type, list an arr of the class elements and the author name
+          let tdAuthor = createElement("td", [], bookInfo.author);
+          //set the container to be edditable and append the element
+          tdAuthor.contentEditable = true;
+          trData.appendChild(tdAuthor);
+          //create the td of the isbn, set its element type, list an arr of the class elements and the isbn id
+          let tdIsbn = createElement("td", [], bookInfo.isbn);
+          //set the container to be edditable and append the element
+          tdIsbn.contentEditable = true;
+          trData.appendChild(tdIsbn);
+          //create the td of the isbn, set its element type, list an arr of the class elements and the tags
+          let tdTags = createElement('td', [], bookInfo.tags);
+          //set the container to be edditable and append the element
+          tdTags.contentEditable = true;
+          trData.appendChild(tdTags);
+          //create the actions panel and append the element
+          let tdAction = createElement("td");
+          trData.appendChild(tdAction);
+          //set the additonal button edit and on click functionality
           let editButton = createElement("button", [], "Edit");
+          tdAction.appendChild(editButton);
           editButton.addEventListener("click", editBook);
-          action.appendChild(editButton);
-
+          //set the additonal button edit and on click functionality
           let deleteButton = createElement("button", [], "Delete");
+          tdAction.appendChild(deleteButton);
           deleteButton.addEventListener("click", deleteBook);
-          action.appendChild(deleteButton);
-
-          tr.appendChild(title);
-          tr.appendChild(author);
-          tr.appendChild(isbn);
-          tr.appendChild(action);
-
-          domElements.booksContainerElement.appendChild(tr);
+          //append the new td elements to the tr container and the tr to the books collection obj
+          booksCollection.booksContainerElement.appendChild(trData);
         }
       })
       .catch(errorHandler);
   }
 
   function editBook() {
-    let currentBook = this.parentNode.parentNode;
-
-    let newBook = {
-      title: currentBook.querySelector("td:nth-child(1)").innerText,
-      author: currentBook.querySelector("td:nth-child(2)").innerText,
-      isbn: currentBook.querySelector("td:nth-child(3)").innerText,
+    //select the current book
+    let currentSelectedBook = this.parentNode.parentNode;
+    // get the id of the current selected book
+    let currentSelectedBookId = currentSelectedBook.getAttribute("data-id");
+    // set the new details of the eddited book
+    let edditedBook = {
+      title: currentSelectedBook.querySelector("td:nth-child(1)").textContent,
+      author: currentSelectedBook.querySelector("td:nth-child(2)").textContent,
+      isbn: currentSelectedBook.querySelector("td:nth-child(3)").textContent,
+      tags: currentSelectedBook.querySelector('td:nth-child(4)').textContent,
     };
-
+    //process the edit request via the new eddited book and it's current id and check for errors
     requests
-      .updateBook(newBook, currentBook.getAttribute("data-id"))
+      .editBook(edditedBook, currentSelectedBookId)
       .catch(errorHandler);
   }
 
   function deleteBook() {
-    let currentBook = this.parentNode.parentNode;
+    //select the current book
+    let currentSelectedBook = this.parentNode.parentNode;
+    // get the id of the current selected book
+    let currentSelectedBookId = currentSelectedBook.getAttribute("data-id");
+    //process the delete book request and delete it from the html
     requests
-      .deleteBook(currentBook.getAttribute("data-id"))
-      .then(currentBook.remove())
+      .deleteBook(currentSelectedBookId)
+      .then(currentSelectedBook.remove())
       .catch(errorHandler);
   }
 
-  function createElement(elType, classNames, textContent) {
-    let element = document.createElement(elType);
-
+  function createElement(elementType, classNames, textContent) {
+    //create element type
+    let element = document.createElement(elementType);
+    // check if second pram is className and add all of the classNames into an arr
     if (classNames) {
       element.classList.add(...classNames);
     }
-
+    //check if third param is text and set it
     if (textContent) {
       element.textContent = textContent;
     }
-
+    //return the element 
     return element;
   }
 
-  function errorHandler(err) {
-    console.dir(err);
+  function errorHandler(errorMessage) {
 
-    if (err.message) {
-      domElements.booksContainerElement.innerHTML = `Error: ${err.message}`;
+    if (errorMessage.message) {
+      booksCollection.booksContainerElement.innerHTML = `Error: ${errorMessage.message}`;
     } else {
-      domElements.booksContainerElement.innerHTML = `Error: ${err.status} (${err.statusText})`;
+      booksCollection.booksContainerElement.innerHTML = `Error: ${errorMessage.status} (${errorMessage.statusText})`;
     }
   }
 })();
