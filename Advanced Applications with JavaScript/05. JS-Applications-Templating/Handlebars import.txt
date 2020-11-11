@@ -1,0 +1,3 @@
+Option 1. Import Handlebars from 'https://jspm.dev/handlebars' = directly imports it
+Option 2. include a new script(CDN) in the HTML head: <script src = "https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.7.6/handlebars.min.js"></script>
+Option 3. Install via mpn -> install handlebars mpn -> paste the script tag in the HTML head -> <script src = "node_modules/handlebars/dist/handlebars.min.js"></script>
