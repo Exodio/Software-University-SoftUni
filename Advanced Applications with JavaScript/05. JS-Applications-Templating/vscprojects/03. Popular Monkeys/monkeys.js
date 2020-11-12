@@ -1,5 +1,4 @@
-const monkeys = [
-  {
+const monkeys = [{
     id: 1,
     name: "Chim Chim",
     image: "./images/chim-chim.jpg",

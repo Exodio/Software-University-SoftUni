@@ -5,7 +5,7 @@
         const domElements = {
             allCatsElement: document.getElementById("allCats"),
         };
-        
+
         fetch("./cat-template.hbs")
             .then(jsonMiddleware)
             .then(data => {
@@ -16,14 +16,14 @@
                     cats
                 });
 
-                Array.from(domElements.allCatsElement.getElementsByClassName("showBtn"))
+                Array.from(domElements.allCatsElement.querySelectorAll(".showBtn"))
                     .map(button => button.addEventListener("click", showButton));
             })
             .catch(errorHandler);
 
         function showButton(e) {
             let currentSelectedButton = e.target;
-            let status = currentSelectedButton.parentElement.querySelector(".status");;
+            let status = currentSelectedButton.parentElement.querySelector("div.status");
 
             if (currentSelectedButton.innerHTML === "Show status code") {
                 currentSelectedButton.innerHTML = "Hide status code";
