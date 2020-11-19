@@ -11,7 +11,7 @@ function addEventListeners() {
 function navigateHandler(e) {
   e.preventDefault();
 
-  if (!e.target.tagName != "A") { //check for anchor tag
+  if (!e.target.tagName != "A") { //checks for anchor tag
     return;
   }
 
