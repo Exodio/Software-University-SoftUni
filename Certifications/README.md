@@ -1,2 +1,2 @@
-All related certificates
+All course related certificates
 -
