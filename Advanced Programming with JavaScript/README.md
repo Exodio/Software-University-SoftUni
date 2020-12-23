@@ -22,4 +22,4 @@ SKILLS YOU WILL ACQUIRE
 
 CERTIFICATE
 -
-![JS Fundamentals - May 2020 - Certificate.jpeg](https://github.com/Exodio/Software-University-SoftUni/blob/master/Certifications/JS%20Advanced%20-%20September%202020%20-%20Certificate.jpeg)
+![JS Advanced - September 2020 - Certificate.jpeg](https://github.com/Exodio/Software-University-SoftUni/blob/master/Certifications/JS%20Advanced%20-%20September%202020%20-%20Certificate.jpeg)
