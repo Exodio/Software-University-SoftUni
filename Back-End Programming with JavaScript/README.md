@@ -1,8 +1,15 @@
 FOR THE COURSE
 =
-The aim of the course "HTML & CSS" is to pass basic knowledge of web technologies and in particular introduction to HTML5 and CSS3. Gain basic knowledge in web development, web browsers, HTML / CSS / DOM development tools and develop practical skills in using the language for describing web content (HTML) and the language for styling web content (CSS).
 
-The basic HTML tags, paragraphs, lists, tables, forms, controls and semantic HTML tags are studied. Emphasis is placed on basic CSS selectors and styles, working with classes, presentation rules, positioning rules, and layout in CSS. The latest innovations of the HTML5 and CSS3 standards are covered.
+The course is intensive and aims to introduce students to the development of server-side JavaScript applications on the Node.js platform, using Express.js as a framework. 
+During the training you will learn how to create a server with Node.js, you will learn the server-client architecture and how to make easy and fast data-driven web applications with Node.js, Express.js and MongoDB, using modern techniques and tools.
 
-The course emphasizes practical exercises with HTML and CSS, through which it involves you in real projects for creating web pages, implementation of fragments of sites and creating complete modern websites with good vision, modern structure and mobile support.
+SKILLS YOU WILL ACQUIRE
+-
 
+- What is a Web Server?
+- Server applications with Node.JS
+- Create applications with Express and Handlebars
+- MVC architecture
+- Basic knowledge of the HTTP protocol
+- Working with non-relational databases
