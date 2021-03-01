@@ -13,3 +13,5 @@ SKILLS YOU WILL ACQUIRE
 - MVC architecture
 - Basic knowledge of the HTTP protocol
 - Working with non-relational databases
+
+![JS Back-End - January 2021 - Certificate.jpeg](https://github.com/Exodio/Software-University-SoftUni/blob/master/Certifications/JS%20Back-End%20-%20January%202021%20-%20Certificate.jpeg)
