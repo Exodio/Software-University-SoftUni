@@ -1,0 +1,49 @@
+1. Heroku deployment
+- register to webpage
+- download heroku CLI (does not require to be installed in the windows folder)
+- restart your VSC
+- once restarted, type in terminal heroku -v (to validate, if installation has passed)
+- type in terminal heroku login (Will be redirected to login in website auth)
+- Once authenticated, leave webpage and type in terminal heroku create
+- Once app is created two URL's will be created(1st URL is app app, 2nd URL git repository for the app)
+- Configurate the dynamic port and server: 
+const port = process.env.PORT || 5000;
+app.listen(port, () => {
+console.log(`Server is running at ${port}...!`);
+});
+});
+-run the server
+-add engine string in in package json and specify your currently installed node versions, example:
+{
+  "name": "mern-boiler-plate",
+  "version": "1.0.0",
+  "description": "react-travel-app",
+  "main": "index.js",
+  "engine": {
+    "node": "14.15.4",
+    "npm": "6.14.10"
+  },
+  "scripts": {
+    "start": "node server/index.js",
+    "backend": "nodemon server/index.js"
+  },
+  "author": "exodio",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "5.0.1",
+    "body-parser": "1.18.3",
+    "cookie-parser": "1.4.5",
+    "express": "4.17.1",
+    "jsonwebtoken": "8.5.1",
+    "mongoose": "5.4.20"
+  },
+  "devDependencies": {
+    "nodemon": "2.0.7"
+  }
+}
+- Enter the website, on the burger menu select dashboard
+- Select your project, then go to setting and then reveal the Config Vars
+- If MongoDB is your current Backend add in the sections under KEY: MONGO_URI and under value (your MongoDB's Cluster Connection String: example -> mongodb+srv://exodio:<password>@cluster0.rspdu.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+- Now as the setup is complete you can proceed with deployment
+- Go back to terminal and type the following git add . -> git commit -am "initialize heroku deployment" -> git push origin master -> git push heroku master -> It takes some time (if you are using GitHub Desktop, just commit and push your changes, then in the terminal type in only: git push heroku (easy right ;)
+- After deployment you will receive an inuque https, that will lead you to your webpage, basically a redirection to the main page at /, as error may occur if you have not placed any data under /
