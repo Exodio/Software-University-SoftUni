@@ -15,4 +15,4 @@ SKILLS YOU WILL ACQUIRE
 - Client applications with React
 - Component-based applications
 
-![ReactJS - March 2021 - Certificate.jpeg](https://github.com/Exodio/Software-University-SoftUni/blob/master/Certifications/ReactJS%20-%20March%202021%20-%20Certificate.pdf)
+![ReactJS - March 2021 - Certificate.jpeg](https://github.com/Exodio/Software-University-SoftUni/blob/master/Certifications/ReactJS%20-%20March%202021%20-%20Certificate.jpeg)
